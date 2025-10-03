@@ -4299,5 +4299,4627 @@
             "dimensiuni": "Deschis: 154.9 x 129.9 x 6.1 mm | Închis: 154.9 x 67.1 x 13.4 mm",
             "altele": "Amprentă laterală, accelerometru, giroscop, senzor de proximitate, busolă, barometru, Samsung DeX, suport Ultra Wideband (UWB)"
         }
+    ],
+    "reviews":[
+        {
+            "id": 1,
+            "productId": 1,
+            "name": "Andrei Popescu",
+            "rating": 5,
+            "comment": "Un telefon incredibil! Camera e next level."
+        },
+        {
+            "id": 2,
+            "productId": 1,
+            "name": "Elena Ionescu",
+            "rating": 4,
+            "comment": "Foarte bun, dar bateria nu ține cât mă așteptam."
+        },
+        {
+            "id": 3,
+            "productId": 1,
+            "name": "Radu C.",
+            "rating": 5,
+            "comment": "Design premium și performanță impecabilă. Merită!"
+        },
+        {
+            "id": 4,
+            "productId": 1,
+            "name": "Ioana T.",
+            "rating": 3,
+            "comment": "Este ok, dar pentru prețul ăsta mă așteptam la mai mult."
+        },
+        {
+            "id": 5,
+            "productId": 1,
+            "name": "Florin D.",
+            "rating": 4,
+            "comment": "Foarte rapid, ecran superb. Încă testez funcțiile noi."
+        },
+        {
+            "id": 6,
+            "productId": 1,
+            "name": "Mihai L.",
+            "rating": 5,
+            "comment": "Cel mai bun iPhone de până acum! Recomand 100%."
+        },
+        {
+            "id": 7,
+            "productId": 2,
+            "name": "Cristina M.",
+            "rating": 5,
+            "comment": "Spațiu de stocare imens și funcționează perfect. Îl ador!"
+        },
+        {
+            "id": 8,
+            "productId": 2,
+            "name": "Alex D.",
+            "rating": 4,
+            "comment": "Foarte bun, dar se încălzește puțin la utilizare intensă."
+        },
+        {
+            "id": 9,
+            "productId": 2,
+            "name": "Laura V.",
+            "rating": 5,
+            "comment": "E rapid, elegant și are un display superb. Merită banii."
+        },
+        {
+            "id": 10,
+            "productId": 2,
+            "name": "George T.",
+            "rating": 3,
+            "comment": "Performanță bună, dar diferențele față de modelul anterior sunt minime."
+        },
+        {
+            "id": 11,
+            "productId": 2,
+            "name": "Bianca N.",
+            "rating": 5,
+            "comment": "512 GB e tot ce-mi trebuia. Nu mai am griji cu spațiul!"
+        },
+        {
+            "id": 12,
+            "productId": 2,
+            "name": "Vlad M.",
+            "rating": 4,
+            "comment": "Un telefon solid, dar prețul e cam piperat."
+        },
+        {
+            "id": 13,
+            "productId": 3,
+            "name": "Ana M.",
+            "rating": 5,
+            "comment": "Arată absolut superb în varianta Natural Titanium. Elegant și puternic."
+        },
+        {
+            "id": 14,
+            "productId": 3,
+            "name": "Dragoș S.",
+            "rating": 4,
+            "comment": "256 GB sunt suficienți pentru mine. Telefonul zboară efectiv!"
+        },
+        {
+            "id": 15,
+            "productId": 3,
+            "name": "Mirela C.",
+            "rating": 5,
+            "comment": "Este exact ce-mi doream. Finisajul natural e de lux."
+        },
+        {
+            "id": 16,
+            "productId": 3,
+            "name": "Cosmin R.",
+            "rating": 3,
+            "comment": "Bun, dar diferențele față de iPhone 15 Pro nu sunt mari."
+        },
+        {
+            "id": 17,
+            "productId": 3,
+            "name": "Diana P.",
+            "rating": 5,
+            "comment": "Camera, ecranul, designul – totul este la superlativ."
+        },
+        {
+            "id": 18,
+            "productId": 3,
+            "name": "Sorin L.",
+            "rating": 4,
+            "comment": "Foarte mulțumit până acum. Titaniumul natural e o alegere excelentă."
+        },
+        {
+            "id": 19,
+            "productId": 4,
+            "name": "Raluca N.",
+            "rating": 5,
+            "comment": "Culoarea White Titanium e absolut superbă, arată foarte premium!"
+        },
+        {
+            "id": 20,
+            "productId": 4,
+            "name": "Adrian G.",
+            "rating": 4,
+            "comment": "Telefon rapid și bine construit. Ar fi fost perfect cu USB 4."
+        },
+        {
+            "id": 21,
+            "productId": 4,
+            "name": "Cătălina D.",
+            "rating": 5,
+            "comment": "Foarte mulțumită! Arată impecabil și performează excelent."
+        },
+        {
+            "id": 22,
+            "productId": 4,
+            "name": "Sebastian M.",
+            "rating": 3,
+            "comment": "Îmi place, dar m-aș fi așteptat la o autonomie mai bună."
+        },
+        {
+            "id": 23,
+            "productId": 4,
+            "name": "Teodora I.",
+            "rating": 5,
+            "comment": "L-am luat pentru cameră și nu regret deloc. Poze superbe!"
+        },
+        {
+            "id": 24,
+            "productId": 4,
+            "name": "Bogdan Z.",
+            "rating": 4,
+            "comment": "Este un telefon excelent. Culoarea albă îi dă un look curat și elegant."
+        },
+        {
+            "id": 25,
+            "productId": 5,
+            "name": "Mihnea R.",
+            "rating": 4,
+            "comment": "Un telefon echilibrat. Încă se descurcă bine în 2025."
+        },
+        {
+            "id": 26,
+            "productId": 5,
+            "name": "Ioana G.",
+            "rating": 5,
+            "comment": "L-am prins la reducere și sunt super mulțumită!"
+        },
+        {
+            "id": 27,
+            "productId": 5,
+            "name": "Paul A.",
+            "rating": 3,
+            "comment": "Bun, dar fără ProMotion sau cameră telefoto. Pentru un utilizator basic e ok."
+        },
+        {
+            "id": 28,
+            "productId": 5,
+            "name": "Anca S.",
+            "rating": 4,
+            "comment": "Midnight e o culoare foarte elegantă. Telefonul merge bine."
+        },
+        {
+            "id": 29,
+            "productId": 5,
+            "name": "Cristi B.",
+            "rating": 5,
+            "comment": "Chiar dacă nu e cel mai nou model, își face treaba foarte bine."
+        },
+        {
+            "id": 30,
+            "productId": 5,
+            "name": "Luiza M.",
+            "rating": 4,
+            "comment": "Simplu, eficient și fiabil. Perfect pentru uz zilnic."
+        },
+        {
+            "id": 31,
+            "productId": 6,
+            "name": "Daniel T.",
+            "rating": 5,
+            "comment": "Superbă culoarea! Blue arată mult mai bine în realitate decât în poze."
+        },
+        {
+            "id": 32,
+            "productId": 6,
+            "name": "Claudia M.",
+            "rating": 4,
+            "comment": "256 GB sunt exact ce îmi trebuiau. Telefonul se mișcă impecabil."
+        },
+        {
+            "id": 33,
+            "productId": 6,
+            "name": "Ilie P.",
+            "rating": 3,
+            "comment": "E ok, dar camera nu e chiar wow comparat cu modelele Pro."
+        },
+        {
+            "id": 34,
+            "productId": 6,
+            "name": "Sorina V.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de achiziție. Culoarea e un mare plus."
+        },
+        {
+            "id": 35,
+            "productId": 6,
+            "name": "Gabi L.",
+            "rating": 4,
+            "comment": "Un telefon bun pentru cei care vor performanță fără prețul Pro."
+        },
+        {
+            "id": 36,
+            "productId": 6,
+            "name": "Andreea N.",
+            "rating": 5,
+            "comment": "Îmi place tot la el – rapid, fluid, memorii suficiente și arată foarte bine!"
+        },
+        {
+            "id": 37,
+            "productId": 7,
+            "name": "Elena S.",
+            "rating": 5,
+            "comment": "Purple arată foarte elegant, iar telefonul merge impecabil."
+        },
+        {
+            "id": 38,
+            "productId": 7,
+            "name": "Marius D.",
+            "rating": 4,
+            "comment": "Este un telefon bun, dar bateria putea fi mai bună."
+        },
+        {
+            "id": 39,
+            "productId": 7,
+            "name": "Irina C.",
+            "rating": 5,
+            "comment": "Pentru prețul lui, e o alegere excelentă."
+        },
+        {
+            "id": 40,
+            "productId": 7,
+            "name": "Vlad P.",
+            "rating": 3,
+            "comment": "Ok pentru utilizarea zilnică, dar nu îl recomand pentru gaming intens."
+        },
+        {
+            "id": 41,
+            "productId": 7,
+            "name": "Anca M.",
+            "rating": 5,
+            "comment": "Coloritul Purple chiar îl face să iasă în evidență."
+        },
+        {
+            "id": 42,
+            "productId": 7,
+            "name": "Gabriel T.",
+            "rating": 4,
+            "comment": "O alegere bună, recomand pentru cei care vor un telefon elegant și funcțional."
+        },
+        {
+            "id": 43,
+            "productId": 8,
+            "name": "Mihai F.",
+            "rating": 5,
+            "comment": "Culoarea Red este super vibrantă, telefonul arată fenomenal!"
+        },
+        {
+            "id": 44,
+            "productId": 8,
+            "name": "Andreea C.",
+            "rating": 4,
+            "comment": "Telefon foarte bun, bateria ține bine pe durata zilei."
+        },
+        {
+            "id": 45,
+            "productId": 8,
+            "name": "Robert D.",
+            "rating": 5,
+            "comment": "Performanță excelentă și design atrăgător."
+        },
+        {
+            "id": 46,
+            "productId": 8,
+            "name": "Ioana L.",
+            "rating": 3,
+            "comment": "E ok, dar mi-ar fi plăcut mai multe funcții foto."
+        },
+        {
+            "id": 47,
+            "productId": 8,
+            "name": "Claudiu B.",
+            "rating": 4,
+            "comment": "Un telefon solid pentru prețul său."
+        },
+        {
+            "id": 48,
+            "productId": 8,
+            "name": "Maria S.",
+            "rating": 5,
+            "comment": "Îmi place foarte mult, culoarea e wow!"
+        },
+        {
+            "id": 49,
+            "productId": 9,
+            "name": "Alexandra M.",
+            "rating": 5,
+            "comment": "Culoarea Starlight e elegantă și subtilă, îmi place foarte mult."
+        },
+        {
+            "id": 50,
+            "productId": 9,
+            "name": "Vlad I.",
+            "rating": 4,
+            "comment": "Telefonul merge bine și are un design plăcut."
+        },
+        {
+            "id": 51,
+            "productId": 9,
+            "name": "Elena P.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de performanță și de camera foto."
+        },
+        {
+            "id": 52,
+            "productId": 9,
+            "name": "Mihai C.",
+            "rating": 3,
+            "comment": "Ok pentru utilizarea zilnică, dar autonomia putea fi mai bună."
+        },
+        {
+            "id": 53,
+            "productId": 9,
+            "name": "Ioana T.",
+            "rating": 5,
+            "comment": "Un telefon elegant și funcțional, perfect pentru mine."
+        },
+        {
+            "id": 54,
+            "productId": 9,
+            "name": "George N.",
+            "rating": 4,
+            "comment": "Foarte bun pentru prețul său, recomand."
+        },
+        {
+            "id": 55,
+            "productId": 10,
+            "name": "Livia D.",
+            "rating": 5,
+            "comment": "Culoarea Yellow e super fresh și telefonul se mișcă foarte bine."
+        },
+        {
+            "id": 56,
+            "productId": 10,
+            "name": "Florin M.",
+            "rating": 4,
+            "comment": "Un telefon rapid și ușor de utilizat, perfect pentru zi cu zi."
+        },
+        {
+            "id": 57,
+            "productId": 10,
+            "name": "Anca P.",
+            "rating": 5,
+            "comment": "Design-ul e foarte plăcut, iar performanța peste așteptări."
+        },
+        {
+            "id": 58,
+            "productId": 10,
+            "name": "Darius T.",
+            "rating": 3,
+            "comment": "Ok pentru uz general, dar bateria s-ar putea îmbunătăți."
+        },
+        {
+            "id": 59,
+            "productId": 10,
+            "name": "Monica S.",
+            "rating": 5,
+            "comment": "Culoarea mă face să mă simt fresh, foarte mulțumită de telefon!"
+        },
+        {
+            "id": 60,
+            "productId": 10,
+            "name": "Cristian V.",
+            "rating": 4,
+            "comment": "Performanță bună și look plăcut."
+        },
+        {
+            "id": 61,
+            "productId": 11,
+            "name": "Andreea V.",
+            "rating": 5,
+            "comment": "Natural Titanium arată superb și telefonul zboară!"
+        },
+        {
+            "id": 62,
+            "productId": 11,
+            "name": "Lucian M.",
+            "rating": 4,
+            "comment": "Performanță excelentă, dar prețul e destul de ridicat."
+        },
+        {
+            "id": 63,
+            "productId": 11,
+            "name": "Maria P.",
+            "rating": 5,
+            "comment": "Camera și designul sunt impresionante. Îmi place foarte mult!"
+        },
+        {
+            "id": 64,
+            "productId": 11,
+            "name": "Victor T.",
+            "rating": 3,
+            "comment": "Telefon bun, dar autonomia ar putea fi mai bună."
+        },
+        {
+            "id": 65,
+            "productId": 11,
+            "name": "Elena C.",
+            "rating": 5,
+            "comment": "Recomand cu încredere. Natural Titanium este o alegere excelentă."
+        },
+        {
+            "id": 66,
+            "productId": 11,
+            "name": "Radu S.",
+            "rating": 4,
+            "comment": "Performanță de top și design premium."
+        },
+        {
+            "id": 67,
+            "productId": 12,
+            "name": "Cristina F.",
+            "rating": 5,
+            "comment": "Culoarea Black Titanium este elegantă și telefonul are performanțe excepționale."
+        },
+        {
+            "id": 68,
+            "productId": 12,
+            "name": "Andrei M.",
+            "rating": 4,
+            "comment": "Spațiul de stocare de 1 TB e perfect pentru toate fișierele mele."
+        },
+        {
+            "id": 69,
+            "productId": 12,
+            "name": "Raluca D.",
+            "rating": 5,
+            "comment": "Telefon foarte rapid și fluid, merită investiția!"
+        },
+        {
+            "id": 70,
+            "productId": 12,
+            "name": "Mihai P.",
+            "rating": 4,
+            "comment": "Designul este premium, dar aș fi vrut o baterie ceva mai rezistentă."
+        },
+        {
+            "id": 71,
+            "productId": 12,
+            "name": "Ioana C.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de cameră și performanța generală."
+        },
+        {
+            "id": 72,
+            "productId": 12,
+            "name": "George V.",
+            "rating": 4,
+            "comment": "Un telefon excelent pentru cei care au nevoie de mult spațiu."
+        },
+        {
+            "id": 73,
+            "productId": 13,
+            "name": "Alexandru N.",
+            "rating": 5,
+            "comment": "Blue Titanium arată fantastic și telefonul este extrem de rapid."
+        },
+        {
+            "id": 74,
+            "productId": 13,
+            "name": "Simona F.",
+            "rating": 4,
+            "comment": "Am ales acest model pentru culoare și spațiu, nu m-a dezamăgit."
+        },
+        {
+            "id": 75,
+            "productId": 13,
+            "name": "Mihai R.",
+            "rating": 5,
+            "comment": "Performanța și stocarea de 1 TB sunt ideale pentru mine."
+        },
+        {
+            "id": 76,
+            "productId": 13,
+            "name": "Elena D.",
+            "rating": 4,
+            "comment": "Telefon foarte bun, doar că prețul este pe măsură."
+        },
+        {
+            "id": 77,
+            "productId": 13,
+            "name": "Cristi T.",
+            "rating": 5,
+            "comment": "Camera este extraordinară, iar designul impecabil."
+        },
+        {
+            "id": 78,
+            "productId": 13,
+            "name": "Ana M.",
+            "rating": 4,
+            "comment": "Foarte mulțumită de această alegere, recomand."
+        },
+        {
+            "id": 79,
+            "productId": 14,
+            "name": "Maria B.",
+            "rating": 5,
+            "comment": "White Titanium arată foarte elegant și rafinat."
+        },
+        {
+            "id": 80,
+            "productId": 14,
+            "name": "Andrei S.",
+            "rating": 4,
+            "comment": "Telefonul este foarte rapid și spațiul de stocare e generos."
+        },
+        {
+            "id": 81,
+            "productId": 14,
+            "name": "Ioana F.",
+            "rating": 5,
+            "comment": "Îmi place designul și performanța generală a telefonului."
+        },
+        {
+            "id": 82,
+            "productId": 14,
+            "name": "Victor C.",
+            "rating": 3,
+            "comment": "Un telefon bun, dar prețul e destul de ridicat."
+        },
+        {
+            "id": 83,
+            "productId": 14,
+            "name": "Raluca D.",
+            "rating": 5,
+            "comment": "Camera și ecranul sunt excepționale."
+        },
+        {
+            "id": 84,
+            "productId": 14,
+            "name": "Cristian M.",
+            "rating": 4,
+            "comment": "O alegere excelentă pentru utilizatorii avansați."
+        },
+        {
+            "id": 85,
+            "productId": 15,
+            "name": "Adrian M.",
+            "rating": 5,
+            "comment": "Culoarea Ultramarine este superbă și telefonul funcționează impecabil."
+        },
+        {
+            "id": 86,
+            "productId": 15,
+            "name": "Larisa T.",
+            "rating": 4,
+            "comment": "Telefonul este rapid și ușor de utilizat, dar bateria putea fi mai bună."
+        },
+        {
+            "id": 87,
+            "productId": 15,
+            "name": "George P.",
+            "rating": 5,
+            "comment": "Foarte mulțumit de performanță și design."
+        },
+        {
+            "id": 88,
+            "productId": 15,
+            "name": "Elena S.",
+            "rating": 3,
+            "comment": "Telefon ok, dar prețul este destul de mare pentru specificațiile oferite."
+        },
+        {
+            "id": 89,
+            "productId": 15,
+            "name": "Mihai R.",
+            "rating": 5,
+            "comment": "Ultramarine e culoarea perfectă pentru mine, recomand!"
+        },
+        {
+            "id": 90,
+            "productId": 15,
+            "name": "Ioana M.",
+            "rating": 4,
+            "comment": "Telefon rapid, elegant și cu funcții bune."
+        },
+        {
+            "id": 91,
+            "productId": 16,
+            "name": "Alexandru V.",
+            "rating": 5,
+            "comment": "Design-ul negru este elegant și clasic. Telefonul merge impecabil."
+        },
+        {
+            "id": 92,
+            "productId": 16,
+            "name": "Bianca S.",
+            "rating": 4,
+            "comment": "Bateria ține destul de bine, iar performanța este satisfăcătoare."
+        },
+        {
+            "id": 93,
+            "productId": 16,
+            "name": "Cristian D.",
+            "rating": 5,
+            "comment": "Foarte mulțumit de acest model, îl recomand cu încredere."
+        },
+        {
+            "id": 94,
+            "productId": 16,
+            "name": "Elena R.",
+            "rating": 3,
+            "comment": "Telefon bun, dar aș fi vrut un ecran mai luminos."
+        },
+        {
+            "id": 95,
+            "productId": 16,
+            "name": "Mihnea P.",
+            "rating": 4,
+            "comment": "Performanță bună și design atrăgător."
+        },
+        {
+            "id": 96,
+            "productId": 16,
+            "name": "Larisa G.",
+            "rating": 5,
+            "comment": "Un telefon elegant și foarte rapid, îmi place mult."
+        },
+        {
+            "id": 97,
+            "productId": 17,
+            "name": "Andreea C.",
+            "rating": 5,
+            "comment": "Culoarea Teal este vibrantă și telefonul funcționează perfect."
+        },
+        {
+            "id": 98,
+            "productId": 17,
+            "name": "Victor M.",
+            "rating": 4,
+            "comment": "Performanță bună și design plăcut."
+        },
+        {
+            "id": 99,
+            "productId": 17,
+            "name": "Ioana L.",
+            "rating": 5,
+            "comment": "Sunt mulțumită de baterie și de camera foto."
+        },
+        {
+            "id": 100,
+            "productId": 17,
+            "name": "Mihai D.",
+            "rating": 3,
+            "comment": "Telefon ok, dar aș fi vrut mai multă autonomie."
+        },
+        {
+            "id": 101,
+            "productId": 17,
+            "name": "Raluca N.",
+            "rating": 5,
+            "comment": "Îmi place foarte mult culoarea și performanța telefonului."
+        },
+        {
+            "id": 102,
+            "productId": 17,
+            "name": "Cristian F.",
+            "rating": 4,
+            "comment": "Un telefon rapid și elegant."
+        },
+        {
+            "id": 103,
+            "productId": 18,
+            "name": "Ana M.",
+            "rating": 5,
+            "comment": "Telefon elegant, culoarea White este superbă."
+        },
+        {
+            "id": 104,
+            "productId": 18,
+            "name": "Bogdan T.",
+            "rating": 4,
+            "comment": "Performanță bună, dar bateria ar putea fi mai bună."
+        },
+        {
+            "id": 105,
+            "productId": 18,
+            "name": "Claudia P.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de cameră și design."
+        },
+        {
+            "id": 106,
+            "productId": 18,
+            "name": "Darius S.",
+            "rating": 3,
+            "comment": "Telefon ok, dar prețul e puțin cam mare."
+        },
+        {
+            "id": 107,
+            "productId": 18,
+            "name": "Elena R.",
+            "rating": 5,
+            "comment": "Îmi place foarte mult acest model, îl recomand."
+        },
+        {
+            "id": 108,
+            "productId": 18,
+            "name": "Florin M.",
+            "rating": 4,
+            "comment": "Telefon rapid și ușor de utilizat."
+        },
+        {
+            "id": 109,
+            "productId": 19,
+            "name": "George L.",
+            "rating": 5,
+            "comment": "Un telefon clasic care încă face față foarte bine."
+        },
+        {
+            "id": 110,
+            "productId": 19,
+            "name": "Maria C.",
+            "rating": 4,
+            "comment": "Performanță bună pentru prețul său."
+        },
+        {
+            "id": 111,
+            "productId": 19,
+            "name": "Andrei D.",
+            "rating": 5,
+            "comment": "Foarte mulțumit de camera acestui model."
+        },
+        {
+            "id": 112,
+            "productId": 19,
+            "name": "Ioana P.",
+            "rating": 3,
+            "comment": "Bateria putea fi mai bună, dar per total un telefon ok."
+        },
+        {
+            "id": 113,
+            "productId": 19,
+            "name": "Radu M.",
+            "rating": 4,
+            "comment": "Telefon fiabil și design plăcut."
+        },
+        {
+            "id": 114,
+            "productId": 19,
+            "name": "Elena V.",
+            "rating": 5,
+            "comment": "Recomand acest model pentru cei care vor ceva clasic și performant."
+        },
+        {
+            "id": 115,
+            "productId": 20,
+            "name": "Elena M.",
+            "rating": 5,
+            "comment": "Culoarea Blue este foarte plăcută, iar telefonul este rapid."
+        },
+        {
+            "id": 116,
+            "productId": 20,
+            "name": "Adrian F.",
+            "rating": 4,
+            "comment": "Un telefon bun pentru utilizarea zilnică."
+        },
+        {
+            "id": 117,
+            "productId": 20,
+            "name": "Ioana R.",
+            "rating": 5,
+            "comment": "Sunt mulțumită de camera și durata bateriei."
+        },
+        {
+            "id": 118,
+            "productId": 20,
+            "name": "Mihai T.",
+            "rating": 3,
+            "comment": "Telefon ok, dar mi-aș fi dorit mai mult spațiu de stocare."
+        },
+        {
+            "id": 119,
+            "productId": 20,
+            "name": "Raluca N.",
+            "rating": 4,
+            "comment": "Foarte mulțumită de acest model."
+        },
+        {
+            "id": 120,
+            "productId": 20,
+            "name": "Cristian S.",
+            "rating": 5,
+            "comment": "Recomand cu încredere!"
+        },
+        {
+            "id": 121,
+            "productId": 21,
+            "name": "Maria P.",
+            "rating": 5,
+            "comment": "Culoarea Green este fresh și telefonul se mișcă foarte bine."
+        },
+        {
+            "id": 122,
+            "productId": 21,
+            "name": "Andrei C.",
+            "rating": 4,
+            "comment": "Telefon solid, recomand pentru utilizarea de zi cu zi."
+        },
+        {
+            "id": 123,
+            "productId": 21,
+            "name": "Ioana S.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de cameră și autonomie."
+        },
+        {
+            "id": 124,
+            "productId": 21,
+            "name": "Mihai L.",
+            "rating": 3,
+            "comment": "Bateria putea fi mai bună, dar telefonul e ok."
+        },
+        {
+            "id": 125,
+            "productId": 21,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Recomand cu încredere acest model!"
+        },
+        {
+            "id": 126,
+            "productId": 21,
+            "name": "Cristian V.",
+            "rating": 4,
+            "comment": "Un telefon bun pentru prețul său."
+        },
+        {
+            "id": 127,
+            "productId": 22,
+            "name": "Elena G.",
+            "rating": 5,
+            "comment": "Culoarea Pink este adorabilă, telefonul funcționează perfect."
+        },
+        {
+            "id": 128,
+            "productId": 22,
+            "name": "Andreea L.",
+            "rating": 4,
+            "comment": "Telefon bun, dar bateria putea fi mai bună."
+        },
+        {
+            "id": 129,
+            "productId": 22,
+            "name": "Mihai T.",
+            "rating": 5,
+            "comment": "Foarte mulțumit de performanța telefonului."
+        },
+        {
+            "id": 130,
+            "productId": 22,
+            "name": "Ioana M.",
+            "rating": 3,
+            "comment": "Un telefon ok, dar mi-aș fi dorit un ecran mai luminos."
+        },
+        {
+            "id": 131,
+            "productId": 22,
+            "name": "Cristian P.",
+            "rating": 5,
+            "comment": "Recomand acest model pentru design și performanță."
+        },
+        {
+            "id": 132,
+            "productId": 22,
+            "name": "Raluca N.",
+            "rating": 4,
+            "comment": "Un telefon rapid și elegant."
+        },
+        {
+            "id": 133,
+            "productId": 23,
+            "name": "Alex D.",
+            "rating": 5,
+            "comment": "Culoarea Red este vibrantă și telefonul funcționează foarte bine."
+        },
+        {
+            "id": 134,
+            "productId": 23,
+            "name": "Maria S.",
+            "rating": 4,
+            "comment": "Telefon bun, bateria ține destul de mult."
+        },
+        {
+            "id": 135,
+            "productId": 23,
+            "name": "Andrei F.",
+            "rating": 5,
+            "comment": "Foarte mulțumit de performanță și design."
+        },
+        {
+            "id": 136,
+            "productId": 23,
+            "name": "Ioana C.",
+            "rating": 3,
+            "comment": "Un telefon ok, dar mi-aș fi dorit mai mult spațiu de stocare."
+        },
+        {
+            "id": 137,
+            "productId": 23,
+            "name": "Cristian M.",
+            "rating": 4,
+            "comment": "Recomand acest model pentru utilizare zilnică."
+        },
+        {
+            "id": 138,
+            "productId": 23,
+            "name": "Raluca D.",
+            "rating": 5,
+            "comment": "Un telefon rapid și elegant, îmi place mult."
+        },
+        {
+            "id": 139,
+            "productId": 24,
+            "name": "Elena B.",
+            "rating": 5,
+            "comment": "Telefon foarte elegant, culoarea Starlight este superbă."
+        },
+        {
+            "id": 140,
+            "productId": 24,
+            "name": "Andrei T.",
+            "rating": 4,
+            "comment": "Performanță bună și spațiu de stocare generos."
+        },
+        {
+            "id": 141,
+            "productId": 24,
+            "name": "Ioana M.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de cameră și autonomie."
+        },
+        {
+            "id": 142,
+            "productId": 24,
+            "name": "Mihai P.",
+            "rating": 3,
+            "comment": "Telefon ok, dar bateria putea fi mai bună."
+        },
+        {
+            "id": 143,
+            "productId": 24,
+            "name": "Raluca S.",
+            "rating": 5,
+            "comment": "Recomand cu încredere acest model."
+        },
+        {
+            "id": 144,
+            "productId": 24,
+            "name": "Cristian F.",
+            "rating": 4,
+            "comment": "Telefon rapid și elegant."
+        },
+        {
+            "id": 145,
+            "productId": 25,
+            "name": "Alex C.",
+            "rating": 5,
+            "comment": "Design-ul negru este elegant și telefonul este foarte rapid."
+        },
+        {
+            "id": 146,
+            "productId": 25,
+            "name": "Bianca F.",
+            "rating": 4,
+            "comment": "Bateria ține bine și camera face poze excelente."
+        },
+        {
+            "id": 147,
+            "productId": 25,
+            "name": "Cristian M.",
+            "rating": 5,
+            "comment": "Foarte mulțumit de acest model, îl recomand."
+        },
+        {
+            "id": 148,
+            "productId": 25,
+            "name": "Elena P.",
+            "rating": 3,
+            "comment": "Telefon ok, dar aș fi vrut un ecran mai luminos."
+        },
+        {
+            "id": 149,
+            "productId": 25,
+            "name": "Mihai T.",
+            "rating": 4,
+            "comment": "Performanță bună și design atrăgător."
+        },
+        {
+            "id": 150,
+            "productId": 25,
+            "name": "Larisa G.",
+            "rating": 5,
+            "comment": "Un telefon elegant și foarte rapid, îmi place mult."
+        },
+        {
+            "id": 151,
+            "productId": 26,
+            "name": "Andrei N.",
+            "rating": 5,
+            "comment": "Culoarea Blue este fresh, iar telefonul se mișcă foarte bine."
+        },
+        {
+            "id": 152,
+            "productId": 26,
+            "name": "Ioana M.",
+            "rating": 4,
+            "comment": "Telefon solid și performant."
+        },
+        {
+            "id": 153,
+            "productId": 26,
+            "name": "Mihai L.",
+            "rating": 5,
+            "comment": "Foarte mulțumit de cameră și autonomie."
+        },
+        {
+            "id": 154,
+            "productId": 26,
+            "name": "Raluca F.",
+            "rating": 3,
+            "comment": "Bateria putea fi mai bună, dar telefonul e ok."
+        },
+        {
+            "id": 155,
+            "productId": 26,
+            "name": "Cristian V.",
+            "rating": 5,
+            "comment": "Recomand cu încredere acest model!"
+        },
+        {
+            "id": 156,
+            "productId": 26,
+            "name": "Elena B.",
+            "rating": 4,
+            "comment": "Un telefon rapid și elegant."
+        },
+        {
+            "id": 157,
+            "productId": 27,
+            "name": "Maria P.",
+            "rating": 5,
+            "comment": "Culoarea Green este fresh și telefonul funcționează impecabil."
+        },
+        {
+            "id": 158,
+            "productId": 27,
+            "name": "Andrei C.",
+            "rating": 4,
+            "comment": "Telefon solid, recomand pentru uz zilnic."
+        },
+        {
+            "id": 159,
+            "productId": 27,
+            "name": "Ioana S.",
+            "rating": 5,
+            "comment": "Mulțumită de cameră și autonomie."
+        },
+        {
+            "id": 160,
+            "productId": 27,
+            "name": "Mihai L.",
+            "rating": 3,
+            "comment": "Bateria putea fi mai bună, dar telefonul este ok."
+        },
+        {
+            "id": 161,
+            "productId": 27,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Recomand cu încredere acest model!"
+        },
+        {
+            "id": 162,
+            "productId": 27,
+            "name": "Cristian V.",
+            "rating": 4,
+            "comment": "Un telefon bun pentru prețul său."
+        },
+        {
+            "id": 163,
+            "productId": 28,
+            "name": "Ana M.",
+            "rating": 5,
+            "comment": "Culoarea Yellow este vibrantă și telefonul este foarte rapid."
+        },
+        {
+            "id": 164,
+            "productId": 28,
+            "name": "Bogdan F.",
+            "rating": 4,
+            "comment": "Telefon bun pentru utilizarea zilnică."
+        },
+        {
+            "id": 165,
+            "productId": 28,
+            "name": "Claudia R.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de camera și durata bateriei."
+        },
+        {
+            "id": 166,
+            "productId": 28,
+            "name": "Darius S.",
+            "rating": 3,
+            "comment": "Telefon ok, dar bateria putea fi mai bună."
+        },
+        {
+            "id": 167,
+            "productId": 28,
+            "name": "Elena N.",
+            "rating": 5,
+            "comment": "Îmi place foarte mult acest model, îl recomand."
+        },
+        {
+            "id": 168,
+            "productId": 28,
+            "name": "Florin M.",
+            "rating": 4,
+            "comment": "Telefon rapid și ușor de utilizat."
+        },
+        {
+            "id": 169,
+            "productId": 29,
+            "name": "Andreea T.",
+            "rating": 5,
+            "comment": "Deep Purple arată extraordinar, un telefon foarte elegant."
+        },
+        {
+            "id": 170,
+            "productId": 29,
+            "name": "Radu I.",
+            "rating": 4,
+            "comment": "Foarte performant, dar se încălzește uneori la utilizare intensă."
+        },
+        {
+            "id": 171,
+            "productId": 29,
+            "name": "Ioana D.",
+            "rating": 5,
+            "comment": "Camera este uimitoare, iar ecranul este extrem de clar."
+        },
+        {
+            "id": 172,
+            "productId": 29,
+            "name": "Mihai V.",
+            "rating": 3,
+            "comment": "Telefon bun, dar bateria nu m-a impresionat."
+        },
+        {
+            "id": 173,
+            "productId": 29,
+            "name": "Elena S.",
+            "rating": 5,
+            "comment": "Recomand cu încredere, e unul dintre cele mai bune modele."
+        },
+        {
+            "id": 174,
+            "productId": 29,
+            "name": "Cristian G.",
+            "rating": 4,
+            "comment": "Rapid, elegant și foarte bine construit."
+        },
+        {
+            "id": 175,
+            "productId": 30,
+            "name": "Maria T.",
+            "rating": 5,
+            "comment": "Un telefon superb, iar nuanța Gold îi dă un aer premium."
+        },
+        {
+            "id": 176,
+            "productId": 30,
+            "name": "Alex P.",
+            "rating": 4,
+            "comment": "Performanță excelentă, dar prețul este cam mare."
+        },
+        {
+            "id": 177,
+            "productId": 30,
+            "name": "Diana C.",
+            "rating": 5,
+            "comment": "Camera foto este incredibilă, perfectă pentru social media."
+        },
+        {
+            "id": 178,
+            "productId": 30,
+            "name": "Marius L.",
+            "rating": 3,
+            "comment": "Frumos și rapid, dar autonomia nu e cea mai grozavă."
+        },
+        {
+            "id": 179,
+            "productId": 30,
+            "name": "Ioana B.",
+            "rating": 5,
+            "comment": "Îl ador! Design elegant și funcționează fără cusur."
+        },
+        {
+            "id": 180,
+            "productId": 30,
+            "name": "Stefan V.",
+            "rating": 4,
+            "comment": "Un telefon premium, se simte bine în mână și rulează tot ce am nevoie."
+        },
+        {
+            "id": 181,
+            "productId": 31,
+            "name": "Andrei R.",
+            "rating": 5,
+            "comment": "Silver arată foarte elegant, iar construcția este premium."
+        },
+        {
+            "id": 182,
+            "productId": 31,
+            "name": "Larisa C.",
+            "rating": 4,
+            "comment": "Telefon foarte bun, dar uneori se încinge în jocuri."
+        },
+        {
+            "id": 183,
+            "productId": 31,
+            "name": "Mihai G.",
+            "rating": 5,
+            "comment": "Performanță impecabilă și cameră foto de top."
+        },
+        {
+            "id": 184,
+            "productId": 31,
+            "name": "Elena D.",
+            "rating": 3,
+            "comment": "Design frumos, dar bateria nu ține cât mă așteptam."
+        },
+        {
+            "id": 185,
+            "productId": 31,
+            "name": "Cristina F.",
+            "rating": 5,
+            "comment": "Rapid, fluid și ideal pentru business sau multimedia."
+        },
+        {
+            "id": 186,
+            "productId": 31,
+            "name": "Robert I.",
+            "rating": 4,
+            "comment": "Un model echilibrat din toate punctele de vedere."
+        },
+        {
+            "id": 187,
+            "productId": 32,
+            "name": "Victor N.",
+            "rating": 5,
+            "comment": "Space Black arată absolut spectaculos. Telefonul este un monstru de performanță."
+        },
+        {
+            "id": 188,
+            "productId": 32,
+            "name": "Ioana M.",
+            "rating": 4,
+            "comment": "Foarte bun, dar prețul e puțin cam sus. Totuși, nu regret achiziția."
+        },
+        {
+            "id": 189,
+            "productId": 32,
+            "name": "George T.",
+            "rating": 5,
+            "comment": "Camera este excelentă, iar ecranul foarte luminos și clar."
+        },
+        {
+            "id": 190,
+            "productId": 32,
+            "name": "Bianca R.",
+            "rating": 3,
+            "comment": "Design premium, dar se simte greu în mână. Autonomia e ok."
+        },
+        {
+            "id": 191,
+            "productId": 32,
+            "name": "Marius S.",
+            "rating": 5,
+            "comment": "Un telefon complet, îl folosesc intens și nu m-a dezamăgit."
+        },
+        {
+            "id": 192,
+            "productId": 32,
+            "name": "Ana L.",
+            "rating": 4,
+            "comment": "Rapid, stabil, cu o culoare care iese în evidență. Îl recomand!"
+        },
+        {
+            "id": 193,
+            "productId": 33,
+            "name": "Alexandru M.",
+            "rating": 5,
+            "comment": "Black Titanium arată incredibil de premium. Telefonul e un adevărat flagship."
+        },
+        {
+            "id": 194,
+            "productId": 33,
+            "name": "Sorina V.",
+            "rating": 4,
+            "comment": "Foarte rapid și bine optimizat, dar încărcarea putea fi mai rapidă."
+        },
+        {
+            "id": 195,
+            "productId": 33,
+            "name": "Diana C.",
+            "rating": 5,
+            "comment": "Îl folosesc pentru foto/video și sunt extrem de mulțumită."
+        },
+        {
+            "id": 196,
+            "productId": 33,
+            "name": "Radu B.",
+            "rating": 3,
+            "comment": "Telefon excelent, dar m-aș fi așteptat la o autonomie mai mare."
+        },
+        {
+            "id": 197,
+            "productId": 33,
+            "name": "Elena G.",
+            "rating": 5,
+            "comment": "Performanță de top, iar designul este sobru și elegant."
+        },
+        {
+            "id": 198,
+            "productId": 33,
+            "name": "Mihai T.",
+            "rating": 4,
+            "comment": "Recomand celor care vor un telefon ușor, dar puternic."
+        },
+        {
+            "id": 199,
+            "productId": 34,
+            "name": "Andreea I.",
+            "rating": 5,
+            "comment": "Culoarea Blue Titanium este superbă și elegantă. Telefonul se simte foarte ușor."
+        },
+        {
+            "id": 200,
+            "productId": 34,
+            "name": "Bogdan V.",
+            "rating": 4,
+            "comment": "Super performanță, dar carcasa pare cam sensibilă la zgârieturi."
+        },
+        {
+            "id": 201,
+            "productId": 34,
+            "name": "Ioana M.",
+            "rating": 5,
+            "comment": "Un dispozitiv complet — rapid, frumos și ușor."
+        },
+        {
+            "id": 202,
+            "productId": 34,
+            "name": "Răzvan T.",
+            "rating": 3,
+            "comment": "Telefon bun, dar diferențele față de modelul anterior nu sunt majore."
+        },
+        {
+            "id": 203,
+            "productId": 34,
+            "name": "Larisa P.",
+            "rating": 5,
+            "comment": "Sunt impresionată de ecran și performanța camerei."
+        },
+        {
+            "id": 204,
+            "productId": 34,
+            "name": "Cristian D.",
+            "rating": 4,
+            "comment": "Elegant și puternic. Îmi place combinația de culoare și materiale."
+        },
+        {
+            "id": 205,
+            "productId": 35,
+            "name": "Marius C.",
+            "rating": 5,
+            "comment": "Natural Titanium este combinația perfectă între eleganță și durabilitate."
+        },
+        {
+            "id": 206,
+            "productId": 35,
+            "name": "Oana B.",
+            "rating": 4,
+            "comment": "Telefon ușor, rapid și foarte bine optimizat. Un pic cam scump totuși."
+        },
+        {
+            "id": 207,
+            "productId": 35,
+            "name": "Alex T.",
+            "rating": 5,
+            "comment": "Un upgrade major față de modelele anterioare. Merită!"
+        },
+        {
+            "id": 208,
+            "productId": 35,
+            "name": "Diana M.",
+            "rating": 3,
+            "comment": "Frumos și puternic, dar autonomia nu impresionează."
+        },
+        {
+            "id": 209,
+            "productId": 35,
+            "name": "Gabriel S.",
+            "rating": 5,
+            "comment": "Îl folosesc zilnic pentru business – impecabil!"
+        },
+        {
+            "id": 210,
+            "productId": 35,
+            "name": "Larisa D.",
+            "rating": 4,
+            "comment": "Foarte ușor și plăcut de folosit. Culoarea e deosebită!"
+        },
+        {
+            "id": 211,
+            "productId": 36,
+            "name": "Adrian T.",
+            "rating": 5,
+            "comment": "Culoarea White Titanium arată spectaculos. Un telefon cu adevărat premium."
+        },
+        {
+            "id": 212,
+            "productId": 36,
+            "name": "Ioana V.",
+            "rating": 4,
+            "comment": "Performanță excelentă, dar mi-ar fi plăcut să aibă autonomie puțin mai mare."
+        },
+        {
+            "id": 213,
+            "productId": 36,
+            "name": "Darius M.",
+            "rating": 5,
+            "comment": "Cel mai bun iPhone pe care l-am avut până acum!"
+        },
+        {
+            "id": 214,
+            "productId": 36,
+            "name": "Elena S.",
+            "rating": 3,
+            "comment": "Frumos și rapid, dar nu simt o diferență majoră față de 15 Pro."
+        },
+        {
+            "id": 215,
+            "productId": 36,
+            "name": "Radu L.",
+            "rating": 5,
+            "comment": "Ecranul este superb, iar telefonul se simte foarte ușor în mână."
+        },
+        {
+            "id": 216,
+            "productId": 36,
+            "name": "Simona G.",
+            "rating": 4,
+            "comment": "Materialele sunt excelente, iar designul e unic. Îl recomand!"
+        },
+        {
+            "id": 217,
+            "productId": 37,
+            "name": "Andreea G.",
+            "rating": 5,
+            "comment": "Ecran mare, culori superbe, iar Deep Purple este foarte elegant."
+        },
+        {
+            "id": 218,
+            "productId": 37,
+            "name": "Mihai P.",
+            "rating": 4,
+            "comment": "Telefon excelent, dar destul de greu în mână. Performanța e top."
+        },
+        {
+            "id": 219,
+            "productId": 37,
+            "name": "Irina M.",
+            "rating": 5,
+            "comment": "Unul dintre cele mai frumoase modele lansate de Apple."
+        },
+        {
+            "id": 220,
+            "productId": 37,
+            "name": "Cristian D.",
+            "rating": 3,
+            "comment": "Foarte bun, dar diferențele față de iPhone 13 Pro Max nu sunt majore."
+        },
+        {
+            "id": 221,
+            "productId": 37,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Camera, ecranul și autonomia sunt excelente. Merită banii."
+        },
+        {
+            "id": 222,
+            "productId": 37,
+            "name": "Florin V.",
+            "rating": 4,
+            "comment": "Un telefon complet, dar prețul este cam piperat."
+        },
+        {
+            "id": 223,
+            "productId": 38,
+            "name": "Roxana T.",
+            "rating": 5,
+            "comment": "Culoarea Gold este absolut superbă, elegant și rafinat."
+        },
+        {
+            "id": 224,
+            "productId": 38,
+            "name": "Vlad M.",
+            "rating": 4,
+            "comment": "Telefonul merge impecabil, dar dimensiunea este cam mare pentru o mână."
+        },
+        {
+            "id": 225,
+            "productId": 38,
+            "name": "Sabina D.",
+            "rating": 5,
+            "comment": "Performanță de top și cameră excelentă. Îl folosesc pentru tot."
+        },
+        {
+            "id": 226,
+            "productId": 38,
+            "name": "Andrei F.",
+            "rating": 3,
+            "comment": "Telefon bun, dar autonomia nu m-a impresionat la cât de mare este."
+        },
+        {
+            "id": 227,
+            "productId": 38,
+            "name": "Bianca I.",
+            "rating": 5,
+            "comment": "Foarte mulțumită! Rapid, stabil și cu un ecran superb."
+        },
+        {
+            "id": 228,
+            "productId": 38,
+            "name": "George N.",
+            "rating": 4,
+            "comment": "Un adevărat flagship. Îl recomand celor care vor performanță."
+        },
+        {
+            "id": 229,
+            "productId": 39,
+            "name": "Mihai C.",
+            "rating": 5,
+            "comment": "Silver este o culoare clasică și elegantă. Telefonul este foarte performant."
+        },
+        {
+            "id": 230,
+            "productId": 39,
+            "name": "Alina P.",
+            "rating": 4,
+            "comment": "Telefonul funcționează excelent, dar prețul este destul de mare."
+        },
+        {
+            "id": 231,
+            "productId": 39,
+            "name": "Cristian B.",
+            "rating": 5,
+            "comment": "Camera foto este impresionantă, iar ecranul foarte luminos."
+        },
+        {
+            "id": 232,
+            "productId": 39,
+            "name": "Elena M.",
+            "rating": 3,
+            "comment": "Telefon frumos, dar bateria nu ține la fel de mult cum mă așteptam."
+        },
+        {
+            "id": 233,
+            "productId": 39,
+            "name": "Robert T.",
+            "rating": 5,
+            "comment": "Un telefon complet, perfect pentru toate nevoile mele."
+        },
+        {
+            "id": 234,
+            "productId": 39,
+            "name": "Larisa N.",
+            "rating": 4,
+            "comment": "Ușor de folosit și foarte rapid, recomand."
+        },
+        {
+            "id": 235,
+            "productId": 40,
+            "name": "Andrei S.",
+            "rating": 5,
+            "comment": "Space Black este culoarea mea preferată, elegantă și discretă."
+        },
+        {
+            "id": 236,
+            "productId": 40,
+            "name": "Maria T.",
+            "rating": 4,
+            "comment": "Telefonul este foarte rapid și are o cameră excelentă."
+        },
+        {
+            "id": 237,
+            "productId": 40,
+            "name": "George L.",
+            "rating": 5,
+            "comment": "Design premium și performanțe excelente."
+        },
+        {
+            "id": 238,
+            "productId": 40,
+            "name": "Elena F.",
+            "rating": 3,
+            "comment": "Bateria ar putea fi mai bună, dar telefonul în rest este ok."
+        },
+        {
+            "id": 239,
+            "productId": 40,
+            "name": "Vlad P.",
+            "rating": 5,
+            "comment": "Un telefon complet, îmi place foarte mult."
+        },
+        {
+            "id": 240,
+            "productId": 40,
+            "name": "Ioana D.",
+            "rating": 4,
+            "comment": "Recomand pentru cei care vor un telefon performant și elegant."
+        },
+        {
+            "id": 241,
+            "productId": 41,
+            "name": "Andrei M.",
+            "rating": 4,
+            "comment": "Telefon solid, performanță bună pentru un model mai vechi."
+        },
+        {
+            "id": 242,
+            "productId": 41,
+            "name": "Elena S.",
+            "rating": 5,
+            "comment": "Îmi place designul și ecranul, bateria ține ok."
+        },
+        {
+            "id": 243,
+            "productId": 41,
+            "name": "Mihai R.",
+            "rating": 4,
+            "comment": "Raport calitate-preț excelent, recomand."
+        },
+        {
+            "id": 244,
+            "productId": 41,
+            "name": "Ioana P.",
+            "rating": 3,
+            "comment": "Bateria putea fi mai bună, dar telefonul este încă rapid."
+        },
+        {
+            "id": 245,
+            "productId": 41,
+            "name": "George D.",
+            "rating": 4,
+            "comment": "Camere bune pentru prețul său, recomand."
+        },
+        {
+            "id": 246,
+            "productId": 41,
+            "name": "Maria L.",
+            "rating": 5,
+            "comment": "Un telefon clasic, încă funcționează foarte bine."
+        },
+        {
+            "id": 247,
+            "productId": 42,
+            "name": "Cristina M.",
+            "rating": 5,
+            "comment": "Culoarea Blue este foarte fresh și plăcută. Telefonul se mișcă bine."
+        },
+        {
+            "id": 248,
+            "productId": 42,
+            "name": "Alexandru P.",
+            "rating": 4,
+            "comment": "Telefon solid, dar bateria putea fi mai bună."
+        },
+        {
+            "id": 249,
+            "productId": 42,
+            "name": "Raluca S.",
+            "rating": 5,
+            "comment": "Îmi place designul și rapiditatea acestui model."
+        },
+        {
+            "id": 250,
+            "productId": 42,
+            "name": "Mihai C.",
+            "rating": 3,
+            "comment": "Telefon bun, dar lipsa încărcării rapide este o problemă."
+        },
+        {
+            "id": 251,
+            "productId": 42,
+            "name": "Elena T.",
+            "rating": 4,
+            "comment": "Camere bune, dar bateria se descarcă cam repede."
+        },
+        {
+            "id": 252,
+            "productId": 42,
+            "name": "Bogdan R.",
+            "rating": 5,
+            "comment": "Recomand pentru cei care vor un telefon de calitate la preț accesibil."
+        },
+        {
+            "id": 253,
+            "productId": 43,
+            "name": "Ioana D.",
+            "rating": 5,
+            "comment": "Culoarea Green este fresh și unică. Telefonul se simte solid."
+        },
+        {
+            "id": 254,
+            "productId": 43,
+            "name": "Andrei F.",
+            "rating": 4,
+            "comment": "Performanță bună pentru preț, dar bateria nu ține foarte mult."
+        },
+        {
+            "id": 255,
+            "productId": 43,
+            "name": "Larisa M.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de acest model, designul este deosebit."
+        },
+        {
+            "id": 256,
+            "productId": 43,
+            "name": "George T.",
+            "rating": 3,
+            "comment": "Telefon decent, dar mă așteptam la o autonomie mai bună."
+        },
+        {
+            "id": 257,
+            "productId": 43,
+            "name": "Elena P.",
+            "rating": 4,
+            "comment": "Camere bune și performanță acceptabilă pentru prețul său."
+        },
+        {
+            "id": 258,
+            "productId": 43,
+            "name": "Mihai R.",
+            "rating": 5,
+            "comment": "Un telefon perfect pentru utilizare zilnică, recomand."
+        },
+        {
+            "id": 259,
+            "productId": 44,
+            "name": "Alexandra V.",
+            "rating": 5,
+            "comment": "Culoarea Purple este vibrantă și foarte plăcută. Telefonul se mișcă bine."
+        },
+        {
+            "id": 260,
+            "productId": 44,
+            "name": "Andrei M.",
+            "rating": 4,
+            "comment": "Performanță bună pentru preț, dar bateria putea fi mai bună."
+        },
+        {
+            "id": 261,
+            "productId": 44,
+            "name": "Ioana P.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de acest telefon, design și culori deosebite."
+        },
+        {
+            "id": 262,
+            "productId": 44,
+            "name": "Mihai C.",
+            "rating": 3,
+            "comment": "Telefon decent, dar autonomia este mai mică decât mă așteptam."
+        },
+        {
+            "id": 263,
+            "productId": 44,
+            "name": "Raluca S.",
+            "rating": 4,
+            "comment": "Camere bune și performanță acceptabilă pentru un model vechi."
+        },
+        {
+            "id": 264,
+            "productId": 44,
+            "name": "Bogdan D.",
+            "rating": 5,
+            "comment": "Un telefon frumos și funcțional, recomand pentru utilizare zilnică."
+        },
+        {
+            "id": 265,
+            "productId": 45,
+            "name": "Maria C.",
+            "rating": 5,
+            "comment": "Culoarea Red este vibrantă și atrăgătoare. Telefonul merge bine."
+        },
+        {
+            "id": 266,
+            "productId": 45,
+            "name": "Vlad T.",
+            "rating": 4,
+            "comment": "Performanță bună, dar bateria putea fi mai durabilă."
+        },
+        {
+            "id": 267,
+            "productId": 45,
+            "name": "Andreea S.",
+            "rating": 5,
+            "comment": "Sunt mulțumită de telefon, designul și culorile sunt superbe."
+        },
+        {
+            "id": 268,
+            "productId": 45,
+            "name": "George M.",
+            "rating": 3,
+            "comment": "Telefon decent, dar autonomia nu e cea mai bună."
+        },
+        {
+            "id": 269,
+            "productId": 45,
+            "name": "Ioana F.",
+            "rating": 4,
+            "comment": "Camere bune și performanță decentă pentru preț."
+        },
+        {
+            "id": 270,
+            "productId": 45,
+            "name": "Mihai N.",
+            "rating": 5,
+            "comment": "Telefon excelent pentru uz zilnic, recomand!"
+        },
+        {
+            "id": 271,
+            "productId": 46,
+            "name": "Ana M.",
+            "rating": 5,
+            "comment": "Modelul White arată foarte elegant, iar performanța este foarte bună."
+        },
+        {
+            "id": 272,
+            "productId": 46,
+            "name": "Bogdan R.",
+            "rating": 4,
+            "comment": "Telefon rapid și ușor de folosit, bateria se consumă normal."
+        },
+        {
+            "id": 273,
+            "productId": 46,
+            "name": "Claudia T.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de calitatea camerei și design."
+        },
+        {
+            "id": 274,
+            "productId": 46,
+            "name": "Dan P.",
+            "rating": 3,
+            "comment": "Un telefon decent, dar spațiul de stocare este puțin pentru mine."
+        },
+        {
+            "id": 275,
+            "productId": 46,
+            "name": "Elena V.",
+            "rating": 4,
+            "comment": "Design frumos, dar bateria putea fi mai durabilă."
+        },
+        {
+            "id": 276,
+            "productId": 46,
+            "name": "Mihai S.",
+            "rating": 5,
+            "comment": "Recomand pentru cei care vor un telefon elegant și rapid."
+        },
+        {
+            "id": 277,
+            "productId": 47,
+            "name": "Raluca M.",
+            "rating": 5,
+            "comment": "Modelul Gold arată premium și performanțele sunt de top."
+        },
+        {
+            "id": 278,
+            "productId": 47,
+            "name": "Alexandru N.",
+            "rating": 4,
+            "comment": "Telefon puternic, dar destul de greu de ținut în mână."
+        },
+        {
+            "id": 279,
+            "productId": 47,
+            "name": "Maria S.",
+            "rating": 5,
+            "comment": "Cameră excelentă și autonomie foarte bună."
+        },
+        {
+            "id": 280,
+            "productId": 47,
+            "name": "Vlad P.",
+            "rating": 3,
+            "comment": "Prețul este destul de ridicat, dar telefonul merită."
+        },
+        {
+            "id": 281,
+            "productId": 47,
+            "name": "Ioana D.",
+            "rating": 5,
+            "comment": "Un telefon complet, foarte mulțumită de alegerea făcută."
+        },
+        {
+            "id": 282,
+            "productId": 47,
+            "name": "Mihai T.",
+            "rating": 4,
+            "comment": "Performanțe bune, dar aș fi preferat mai multă diversitate în culori."
+        },
+        {
+            "id": 283,
+            "productId": 48,
+            "name": "Andrei L.",
+            "rating": 5,
+            "comment": "Culoarea Graphite este foarte elegantă și discretă."
+        },
+        {
+            "id": 284,
+            "productId": 48,
+            "name": "Elena F.",
+            "rating": 4,
+            "comment": "Telefonul este foarte rapid și camera este excelentă."
+        },
+        {
+            "id": 285,
+            "productId": 48,
+            "name": "Mihai C.",
+            "rating": 5,
+            "comment": "Design premium și performanțe de top."
+        },
+        {
+            "id": 286,
+            "productId": 48,
+            "name": "Ioana D.",
+            "rating": 3,
+            "comment": "Bateria ar putea fi mai durabilă, dar telefonul e ok."
+        },
+        {
+            "id": 287,
+            "productId": 48,
+            "name": "Vlad P.",
+            "rating": 5,
+            "comment": "Un telefon complet, recomand pentru utilizare zilnică."
+        },
+        {
+            "id": 288,
+            "productId": 48,
+            "name": "Raluca S.",
+            "rating": 4,
+            "comment": "Recomand pentru cei care vor un telefon performant și elegant."
+        },
+        {
+            "id": 289,
+            "productId": 49,
+            "name": "Cristina M.",
+            "rating": 5,
+            "comment": "Culoarea Green este superbă, foarte fresh și elegantă."
+        },
+        {
+            "id": 290,
+            "productId": 49,
+            "name": "Alexandru P.",
+            "rating": 4,
+            "comment": "Telefon performant, dar bateria putea ține mai mult."
+        },
+        {
+            "id": 291,
+            "productId": 49,
+            "name": "Raluca S.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de performanță și design."
+        },
+        {
+            "id": 292,
+            "productId": 49,
+            "name": "Mihai C.",
+            "rating": 3,
+            "comment": "Telefon bun, dar autonomia ar putea fi îmbunătățită."
+        },
+        {
+            "id": 293,
+            "productId": 49,
+            "name": "Elena T.",
+            "rating": 4,
+            "comment": "Camere excelente și ecran luminos."
+        },
+        {
+            "id": 294,
+            "productId": 49,
+            "name": "Bogdan R.",
+            "rating": 5,
+            "comment": "Recomand pentru utilizare zilnică și pentru aspect."
+        },
+        {
+            "id": 295,
+            "productId": 50,
+            "name": "Ioana M.",
+            "rating": 5,
+            "comment": "Culoarea Sierra Blue este superbă și elegantă."
+        },
+        {
+            "id": 296,
+            "productId": 50,
+            "name": "Andrei L.",
+            "rating": 4,
+            "comment": "Telefon performant, dar bateria ar putea dura mai mult."
+        },
+        {
+            "id": 297,
+            "productId": 50,
+            "name": "Maria S.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de performanță și design."
+        },
+        {
+            "id": 298,
+            "productId": 50,
+            "name": "Mihai T.",
+            "rating": 3,
+            "comment": "Telefon bun, dar autonomia ar putea fi mai bună."
+        },
+        {
+            "id": 299,
+            "productId": 50,
+            "name": "Elena P.",
+            "rating": 4,
+            "comment": "Camere excelente și ecran luminos."
+        },
+        {
+            "id": 300,
+            "productId": 50,
+            "name": "Bogdan R.",
+            "rating": 5,
+            "comment": "Recomand pentru utilizare zilnică și aspect elegant."
+        },
+        {
+            "id": 301,
+            "productId": 51,
+            "name": "Andreea M.",
+            "rating": 5,
+            "comment": "Modelul Silver are un design elegant și finisaje premium."
+        },
+        {
+            "id": 302,
+            "productId": 51,
+            "name": "Vlad T.",
+            "rating": 4,
+            "comment": "Telefon puternic, cu performanțe excelente."
+        },
+        {
+            "id": 303,
+            "productId": 51,
+            "name": "Maria S.",
+            "rating": 5,
+            "comment": "Cameră excelentă și autonomie foarte bună."
+        },
+        {
+            "id": 304,
+            "productId": 51,
+            "name": "George M.",
+            "rating": 3,
+            "comment": "Prețul este destul de ridicat, dar merită calitatea."
+        },
+        {
+            "id": 305,
+            "productId": 51,
+            "name": "Ioana F.",
+            "rating": 5,
+            "comment": "Un telefon complet, foarte mulțumită de alegere."
+        },
+        {
+            "id": 306,
+            "productId": 51,
+            "name": "Mihai N.",
+            "rating": 4,
+            "comment": "Performanțe bune și design premium."
+        },
+        {
+            "id": 307,
+            "productId": 52,
+            "name": "Alexandra C.",
+            "rating": 5,
+            "comment": "iPad-ul este rapid și perfect pentru utilizare zilnică."
+        },
+        {
+            "id": 308,
+            "productId": 52,
+            "name": "Mihai D.",
+            "rating": 4,
+            "comment": "Bateria ține bine și ecranul este clar."
+        },
+        {
+            "id": 309,
+            "productId": 52,
+            "name": "Elena V.",
+            "rating": 5,
+            "comment": "Ideal pentru studenți și pentru navigare pe internet."
+        },
+        {
+            "id": 310,
+            "productId": 52,
+            "name": "George T.",
+            "rating": 3,
+            "comment": "Memoria de 32 GB este puțin limitată pentru aplicații."
+        },
+        {
+            "id": 311,
+            "productId": 52,
+            "name": "Ioana F.",
+            "rating": 4,
+            "comment": "Foarte mulțumită de calitatea construcției."
+        },
+        {
+            "id": 312,
+            "productId": 52,
+            "name": "Vlad P.",
+            "rating": 5,
+            "comment": "Un device compact și puternic, recomand."
+        },
+        {
+            "id": 313,
+            "productId": 53,
+            "name": "Maria P.",
+            "rating": 5,
+            "comment": "Design elegant și culorile sunt superbe."
+        },
+        {
+            "id": 314,
+            "productId": 53,
+            "name": "Andrei S.",
+            "rating": 4,
+            "comment": "Performanță bună pentru prețul său."
+        },
+        {
+            "id": 315,
+            "productId": 53,
+            "name": "Elena M.",
+            "rating": 5,
+            "comment": "Perfect pentru navigare și vizionare filme."
+        },
+        {
+            "id": 316,
+            "productId": 53,
+            "name": "George C.",
+            "rating": 3,
+            "comment": "Memoria de 32 GB este limitată pentru aplicații multiple."
+        },
+        {
+            "id": 317,
+            "productId": 53,
+            "name": "Ioana D.",
+            "rating": 4,
+            "comment": "Bateria ține suficient pentru o zi de utilizare."
+        },
+        {
+            "id": 318,
+            "productId": 53,
+            "name": "Mihai R.",
+            "rating": 5,
+            "comment": "Recomand pentru cei care vor un iPad simplu și elegant."
+        },
+        {
+            "id": 319,
+            "productId": 54,
+            "name": "Andreea B.",
+            "rating": 5,
+            "comment": "Designul Silver este elegant și modern."
+        },
+        {
+            "id": 320,
+            "productId": 54,
+            "name": "Vlad M.",
+            "rating": 4,
+            "comment": "Performanță bună pentru un device la acest preț."
+        },
+        {
+            "id": 321,
+            "productId": 54,
+            "name": "Maria T.",
+            "rating": 5,
+            "comment": "Perfect pentru browsing și multimedia."
+        },
+        {
+            "id": 322,
+            "productId": 54,
+            "name": "George F.",
+            "rating": 3,
+            "comment": "Memoria este un pic limitată pentru aplicații multiple."
+        },
+        {
+            "id": 323,
+            "productId": 54,
+            "name": "Ioana L.",
+            "rating": 4,
+            "comment": "Bateria ține bine pentru o zi întreagă de utilizare."
+        },
+        {
+            "id": 324,
+            "productId": 54,
+            "name": "Mihai N.",
+            "rating": 5,
+            "comment": "Un iPad fiabil și elegant, recomand."
+        },
+        {
+            "id": 325,
+            "productId": 55,
+            "name": "Alexandru P.",
+            "rating": 5,
+            "comment": "Modelul Space Gray are un design elegant și finisaje premium."
+        },
+        {
+            "id": 326,
+            "productId": 55,
+            "name": "Elena M.",
+            "rating": 4,
+            "comment": "Performanță bună pentru activitățile de zi cu zi."
+        },
+        {
+            "id": 327,
+            "productId": 55,
+            "name": "Mihai T.",
+            "rating": 5,
+            "comment": "Perfect pentru browsing, multimedia și studiu."
+        },
+        {
+            "id": 328,
+            "productId": 55,
+            "name": "Ioana D.",
+            "rating": 3,
+            "comment": "Memoria de 32 GB este puțin limitată pentru utilizare intensă."
+        },
+        {
+            "id": 329,
+            "productId": 55,
+            "name": "Vlad R.",
+            "rating": 4,
+            "comment": "Bateria ține bine pentru o zi întreagă de utilizare moderată."
+        },
+        {
+            "id": 330,
+            "productId": 55,
+            "name": "Raluca S.",
+            "rating": 5,
+            "comment": "Un iPad fiabil și elegant, recomand cu încredere."
+        },
+        {
+            "id": 331,
+            "productId": 56,
+            "name": "Andrei M.",
+            "rating": 5,
+            "comment": "Performanțe excepționale și ecran imersiv."
+        },
+        {
+            "id": 332,
+            "productId": 56,
+            "name": "Elena T.",
+            "rating": 4,
+            "comment": "Perfect pentru muncă și creație digitală."
+        },
+        {
+            "id": 333,
+            "productId": 56,
+            "name": "Mihai R.",
+            "rating": 5,
+            "comment": "Design premium și autonomie foarte bună."
+        },
+        {
+            "id": 334,
+            "productId": 56,
+            "name": "Ioana S.",
+            "rating": 3,
+            "comment": "Prețul este ridicat, dar merită pentru performanță."
+        },
+        {
+            "id": 335,
+            "productId": 56,
+            "name": "Vlad P.",
+            "rating": 4,
+            "comment": "Un device puternic și versatil, recomand."
+        },
+        {
+            "id": 336,
+            "productId": 56,
+            "name": "Raluca C.",
+            "rating": 5,
+            "comment": "Foarte mulțumită de performanță și design."
+        },
+        {
+            "id": 337,
+            "productId": 57,
+            "name": "Andreea L.",
+            "rating": 5,
+            "comment": "Compact și puternic, perfect pentru muncă și divertisment."
+        },
+        {
+            "id": 338,
+            "productId": 57,
+            "name": "Vlad M.",
+            "rating": 4,
+            "comment": "Ecranul este superb, iar performanța foarte bună."
+        },
+        {
+            "id": 339,
+            "productId": 57,
+            "name": "Maria S.",
+            "rating": 5,
+            "comment": "Un device excelent pentru profesioniști și creativi."
+        },
+        {
+            "id": 340,
+            "productId": 57,
+            "name": "George T.",
+            "rating": 3,
+            "comment": "Prețul este puțin ridicat, dar performanța justifică."
+        },
+        {
+            "id": 341,
+            "productId": 57,
+            "name": "Ioana F.",
+            "rating": 4,
+            "comment": "Bateria ține bine și designul este elegant."
+        },
+        {
+            "id": 342,
+            "productId": 57,
+            "name": "Mihai N.",
+            "rating": 5,
+            "comment": "Recomand pentru utilizare profesională și entertainment."
+        },
+        {
+            "id": 343,
+            "productId": 58,
+            "name": "Andrei C.",
+            "rating": 5,
+            "comment": "Performanță de top, ideal pentru creativi."
+        },
+        {
+            "id": 344,
+            "productId": 58,
+            "name": "Elena M.",
+            "rating": 4,
+            "comment": "Ecranul mare și luminos face diferența."
+        },
+        {
+            "id": 345,
+            "productId": 58,
+            "name": "Mihai P.",
+            "rating": 5,
+            "comment": "Un device excelent pentru muncă și divertisment."
+        },
+        {
+            "id": 346,
+            "productId": 58,
+            "name": "Ioana T.",
+            "rating": 3,
+            "comment": "Prețul este ridicat, dar merită calitatea."
+        },
+        {
+            "id": 347,
+            "productId": 58,
+            "name": "Vlad R.",
+            "rating": 4,
+            "comment": "Bateria ține bine și este foarte rapid."
+        },
+        {
+            "id": 348,
+            "productId": 58,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Un iPad puternic și elegant, recomand cu încredere."
+        },
+        {
+            "id": 349,
+            "productId": 59,
+            "name": "Alexandru M.",
+            "rating": 5,
+            "comment": "Performanțe excelente și design premium."
+        },
+        {
+            "id": 350,
+            "productId": 59,
+            "name": "Elena R.",
+            "rating": 4,
+            "comment": "Ecranul mare și clar este perfect pentru muncă."
+        },
+        {
+            "id": 351,
+            "productId": 59,
+            "name": "Mihai T.",
+            "rating": 5,
+            "comment": "Un device foarte puternic și elegant."
+        },
+        {
+            "id": 352,
+            "productId": 59,
+            "name": "Ioana S.",
+            "rating": 3,
+            "comment": "Prețul este destul de ridicat, dar merită."
+        },
+        {
+            "id": 353,
+            "productId": 59,
+            "name": "Vlad P.",
+            "rating": 4,
+            "comment": "Bateria ține bine și performanța este de top."
+        },
+        {
+            "id": 354,
+            "productId": 59,
+            "name": "Raluca C.",
+            "rating": 5,
+            "comment": "Recomand pentru profesioniști și creativi."
+        },
+        {
+            "id": 355,
+            "productId": 60,
+            "name": "Andrei B.",
+            "rating": 5,
+            "comment": "Performanțe excelente pentru un laptop compact."
+        },
+        {
+            "id": 356,
+            "productId": 60,
+            "name": "Elena F.",
+            "rating": 4,
+            "comment": "Ecranul este luminos și clar, iar tastatura confortabilă."
+        },
+        {
+            "id": 357,
+            "productId": 60,
+            "name": "Mihai D.",
+            "rating": 5,
+            "comment": "Ideal pentru muncă intensă și multitasking."
+        },
+        {
+            "id": 358,
+            "productId": 60,
+            "name": "Ioana P.",
+            "rating": 3,
+            "comment": "Prețul este puțin ridicat, dar merită calitatea."
+        },
+        {
+            "id": 359,
+            "productId": 60,
+            "name": "Vlad R.",
+            "rating": 4,
+            "comment": "Portabil și puternic, perfect pentru profesioniști."
+        },
+        {
+            "id": 360,
+            "productId": 60,
+            "name": "Raluca S.",
+            "rating": 5,
+            "comment": "Un laptop premium, foarte mulțumită de achiziție."
+        },
+        {
+            "id": 361,
+            "productId": 61,
+            "name": "Andrei T.",
+            "rating": 5,
+            "comment": "Performanță excelentă datorită chipului M1."
+        },
+        {
+            "id": 362,
+            "productId": 61,
+            "name": "Elena V.",
+            "rating": 4,
+            "comment": "Bateria ține mult și este foarte silențios."
+        },
+        {
+            "id": 363,
+            "productId": 61,
+            "name": "Mihai L.",
+            "rating": 5,
+            "comment": "Perfect pentru programare și productivitate."
+        },
+        {
+            "id": 364,
+            "productId": 61,
+            "name": "Ioana M.",
+            "rating": 3,
+            "comment": "Spațiul de stocare ar putea fi mai mare."
+        },
+        {
+            "id": 365,
+            "productId": 61,
+            "name": "Vlad C.",
+            "rating": 4,
+            "comment": "Design elegant și performanță foarte bună."
+        },
+        {
+            "id": 366,
+            "productId": 61,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Recomand acest MacBook pentru utilizarea zilnică."
+        },
+        {
+            "id": 367,
+            "productId": 62,
+            "name": "Andreea D.",
+            "rating": 5,
+            "comment": "Performanțe solide pentru utilizarea zilnică."
+        },
+        {
+            "id": 368,
+            "productId": 62,
+            "name": "Vlad M.",
+            "rating": 4,
+            "comment": "Ecranul este luminos și culorile sunt vii."
+        },
+        {
+            "id": 369,
+            "productId": 62,
+            "name": "Maria T.",
+            "rating": 5,
+            "comment": "Tastatura Touch Bar este foarte utilă."
+        },
+        {
+            "id": 370,
+            "productId": 62,
+            "name": "George F.",
+            "rating": 3,
+            "comment": "S-ar putea să fie puțin cam lent pentru task-uri complexe."
+        },
+        {
+            "id": 371,
+            "productId": 62,
+            "name": "Ioana L.",
+            "rating": 4,
+            "comment": "Portabil și cu autonomie bună a bateriei."
+        },
+        {
+            "id": 372,
+            "productId": 62,
+            "name": "Mihai N.",
+            "rating": 5,
+            "comment": "Recomand pentru utilizatori care nu au nevoie de performanțe extreme."
+        },
+        {
+            "id": 373,
+            "productId": 63,
+            "name": "Alexandra P.",
+            "rating": 4,
+            "comment": "Laptop performant și elegant, perfect pentru birou."
+        },
+        {
+            "id": 374,
+            "productId": 63,
+            "name": "Cristian M.",
+            "rating": 3,
+            "comment": "Se încălzește puțin la utilizare intensă."
+        },
+        {
+            "id": 375,
+            "productId": 63,
+            "name": "Elena S.",
+            "rating": 5,
+            "comment": "Designul și tastatura Touch Bar sunt foarte practice."
+        },
+        {
+            "id": 376,
+            "productId": 63,
+            "name": "Mihai T.",
+            "rating": 4,
+            "comment": "Performanță bună pentru multitasking și productivitate."
+        },
+        {
+            "id": 377,
+            "productId": 63,
+            "name": "Ioana F.",
+            "rating": 4,
+            "comment": "Bateria ține bine în condiții normale de utilizare."
+        },
+        {
+            "id": 378,
+            "productId": 63,
+            "name": "Vlad R.",
+            "rating": 5,
+            "comment": "Recomand pentru utilizatori care au nevoie de un laptop fiabil."
+        },
+        {
+            "id": 379,
+            "productId": 64,
+            "name": "Andrei V.",
+            "rating": 4,
+            "comment": "Design elegant și performanțe decente pentru uz zilnic."
+        },
+        {
+            "id": 380,
+            "productId": 64,
+            "name": "Elena P.",
+            "rating": 3,
+            "comment": "Se încălzește ușor la sarcini mai grele."
+        },
+        {
+            "id": 381,
+            "productId": 64,
+            "name": "Mihai D.",
+            "rating": 5,
+            "comment": "Touch Bar-ul este foarte util și intuitiv."
+        },
+        {
+            "id": 382,
+            "productId": 64,
+            "name": "Ioana S.",
+            "rating": 4,
+            "comment": "Autonomia bateriei este bună pentru un laptop atât de puternic."
+        },
+        {
+            "id": 383,
+            "productId": 64,
+            "name": "Vlad M.",
+            "rating": 4,
+            "comment": "Portabil și performant, ideal pentru profesioniști."
+        },
+        {
+            "id": 384,
+            "productId": 64,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Recomand pentru cei care caută un laptop de calitate."
+        },
+        {
+            "id": 385,
+            "productId": 65,
+            "name": "Alexandra M.",
+            "rating": 5,
+            "comment": "Performanță excelentă și design elegant."
+        },
+        {
+            "id": 386,
+            "productId": 65,
+            "name": "Cristian L.",
+            "rating": 4,
+            "comment": "Bateria ține foarte mult și este foarte silențios."
+        },
+        {
+            "id": 387,
+            "productId": 65,
+            "name": "Elena S.",
+            "rating": 5,
+            "comment": "Perfect pentru productivitate și multimedia."
+        },
+        {
+            "id": 388,
+            "productId": 65,
+            "name": "Mihai R.",
+            "rating": 4,
+            "comment": "Ușor și portabil, ideal pentru utilizare zilnică."
+        },
+        {
+            "id": 389,
+            "productId": 65,
+            "name": "Ioana T.",
+            "rating": 5,
+            "comment": "Recomand pentru studenți și profesioniști."
+        },
+        {
+            "id": 390,
+            "productId": 65,
+            "name": "Vlad P.",
+            "rating": 4,
+            "comment": "Design modern și performanțe foarte bune."
+        },
+        {
+            "id": 391,
+            "productId": 66,
+            "name": "Andreea V.",
+            "rating": 5,
+            "comment": "Performanțe foarte bune pentru prețul oferit."
+        },
+        {
+            "id": 392,
+            "productId": 66,
+            "name": "Mihai D.",
+            "rating": 4,
+            "comment": "Bateria ține mult și este foarte silențios."
+        },
+        {
+            "id": 393,
+            "productId": 66,
+            "name": "Elena M.",
+            "rating": 5,
+            "comment": "Perfect pentru productivitate și sarcini zilnice."
+        },
+        {
+            "id": 394,
+            "productId": 66,
+            "name": "Cristian T.",
+            "rating": 3,
+            "comment": "Aș fi dorit mai mult spațiu de stocare."
+        },
+        {
+            "id": 395,
+            "productId": 66,
+            "name": "Ioana F.",
+            "rating": 4,
+            "comment": "Design elegant și ușor de transportat."
+        },
+        {
+            "id": 396,
+            "productId": 66,
+            "name": "Vlad R.",
+            "rating": 5,
+            "comment": "Recomand pentru studenți și utilizatori casual."
+        },
+        {
+            "id": 397,
+            "productId": 67,
+            "name": "Alexandru M.",
+            "rating": 5,
+            "comment": "Performanțe foarte bune și design elegant."
+        },
+        {
+            "id": 398,
+            "productId": 67,
+            "name": "Elena T.",
+            "rating": 4,
+            "comment": "Bateria ține bine și este foarte silențios."
+        },
+        {
+            "id": 399,
+            "productId": 67,
+            "name": "Mihai P.",
+            "rating": 5,
+            "comment": "Ideal pentru productivitate și sarcini zilnice."
+        },
+        {
+            "id": 400,
+            "productId": 67,
+            "name": "Ioana S.",
+            "rating": 4,
+            "comment": "Aș fi dorit mai mult spațiu de stocare."
+        },
+        {
+            "id": 401,
+            "productId": 67,
+            "name": "Cristian L.",
+            "rating": 4,
+            "comment": "Ușor de transportat și foarte performant."
+        },
+        {
+            "id": 402,
+            "productId": 67,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Recomand pentru utilizatori casual și studenți."
+        },
+        {
+            "id": 403,
+            "productId": 68,
+            "name": "Andrei S.",
+            "rating": 5,
+            "comment": "Ecran mare și clar, perfect pentru muncă și divertisment."
+        },
+        {
+            "id": 404,
+            "productId": 68,
+            "name": "Elena R.",
+            "rating": 4,
+            "comment": "Performanță excelentă și design modern."
+        },
+        {
+            "id": 405,
+            "productId": 68,
+            "name": "Mihai C.",
+            "rating": 4,
+            "comment": "Bateria ține bine, dar aș fi dorit mai mult spațiu de stocare."
+        },
+        {
+            "id": 406,
+            "productId": 68,
+            "name": "Ioana M.",
+            "rating": 5,
+            "comment": "Portabil și ușor, ideal pentru studenți și profesioniști."
+        },
+        {
+            "id": 407,
+            "productId": 68,
+            "name": "Vlad P.",
+            "rating": 4,
+            "comment": "Performanțe bune și design premium."
+        },
+        {
+            "id": 408,
+            "productId": 68,
+            "name": "Raluca T.",
+            "rating": 5,
+            "comment": "Recomand acest model pentru cei care vor un ecran mare și performanță bună."
+        },
+        {
+            "id": 409,
+            "productId": 69,
+            "name": "Andrei G.",
+            "rating": 5,
+            "comment": "Durabil și foarte precis pentru tracking-ul activităților."
+        },
+        {
+            "id": 410,
+            "productId": 69,
+            "name": "Elena M.",
+            "rating": 4,
+            "comment": "Design premium și ușor de utilizat."
+        },
+        {
+            "id": 411,
+            "productId": 69,
+            "name": "Mihai T.",
+            "rating": 5,
+            "comment": "Bateria ține bine chiar și cu funcțiile activate."
+        },
+        {
+            "id": 412,
+            "productId": 69,
+            "name": "Ioana P.",
+            "rating": 4,
+            "comment": "Ideal pentru cei pasionați de sport și sănătate."
+        },
+        {
+            "id": 413,
+            "productId": 69,
+            "name": "Vlad S.",
+            "rating": 5,
+            "comment": "Foarte rezistent și cu funcții utile în viața de zi cu zi."
+        },
+        {
+            "id": 414,
+            "productId": 69,
+            "name": "Raluca F.",
+            "rating": 4,
+            "comment": "Prețul este puțin ridicat, dar merită investiția."
+        },
+        {
+            "id": 415,
+            "productId": 70,
+            "name": "Alexandra D.",
+            "rating": 4,
+            "comment": "Un smartwatch accesibil cu funcții esențiale."
+        },
+        {
+            "id": 416,
+            "productId": 70,
+            "name": "Cristian M.",
+            "rating": 4,
+            "comment": "Bateria ține o zi întreagă, destul de mulțumit."
+        },
+        {
+            "id": 417,
+            "productId": 70,
+            "name": "Elena P.",
+            "rating": 5,
+            "comment": "Ideal pentru monitorizarea activității fizice zilnice."
+        },
+        {
+            "id": 418,
+            "productId": 70,
+            "name": "Mihai R.",
+            "rating": 3,
+            "comment": "Lipsește câteva funcții avansate față de modelele mai scumpe."
+        },
+        {
+            "id": 419,
+            "productId": 70,
+            "name": "Ioana S.",
+            "rating": 4,
+            "comment": "Foarte comod și ușor de folosit."
+        },
+        {
+            "id": 420,
+            "productId": 70,
+            "name": "Vlad T.",
+            "rating": 4,
+            "comment": "Recomand pentru cei care vor un smartwatch simplu și eficient."
+        },
+        {
+            "id": 421,
+            "productId": 71,
+            "name": "Andrei T.",
+            "rating": 4,
+            "comment": "Conectivitate excelentă și funcții utile pentru utilizare zilnică."
+        },
+        {
+            "id": 422,
+            "productId": 71,
+            "name": "Elena C.",
+            "rating": 5,
+            "comment": "Îmi place foarte mult autonomia și funcțiile GPS + Cellular."
+        },
+        {
+            "id": 423,
+            "productId": 71,
+            "name": "Mihai D.",
+            "rating": 4,
+            "comment": "Foarte bun pentru monitorizarea activității și notificări rapide."
+        },
+        {
+            "id": 424,
+            "productId": 71,
+            "name": "Ioana F.",
+            "rating": 3,
+            "comment": "Prețul este puțin ridicat pentru ce oferă."
+        },
+        {
+            "id": 425,
+            "productId": 71,
+            "name": "Vlad S.",
+            "rating": 4,
+            "comment": "Design plăcut și ușor de folosit."
+        },
+        {
+            "id": 426,
+            "productId": 71,
+            "name": "Raluca P.",
+            "rating": 5,
+            "comment": "Recomand pentru cei care vor o variantă cu conectivitate celulară."
+        },
+        {
+            "id": 427,
+            "productId": 72,
+            "name": "Andreea N.",
+            "rating": 5,
+            "comment": "Un upgrade excelent față de modelul anterior."
+        },
+        {
+            "id": 428,
+            "productId": 72,
+            "name": "Cristian V.",
+            "rating": 4,
+            "comment": "Bateria ține o zi întreagă, suficient pentru utilizarea mea."
+        },
+        {
+            "id": 429,
+            "productId": 72,
+            "name": "Elena F.",
+            "rating": 4,
+            "comment": "Design modern și funcții utile."
+        },
+        {
+            "id": 430,
+            "productId": 72,
+            "name": "Mihai L.",
+            "rating": 3,
+            "comment": "Aș fi dorit câteva funcții suplimentare."
+        },
+        {
+            "id": 431,
+            "productId": 72,
+            "name": "Ioana B.",
+            "rating": 5,
+            "comment": "Ideal pentru activități sportive și monitorizare sănătate."
+        },
+        {
+            "id": 432,
+            "productId": 72,
+            "name": "Vlad M.",
+            "rating": 4,
+            "comment": "Foarte comod și ușor de folosit."
+        },
+        {
+            "id": 433,
+            "productId": 73,
+            "name": "Andrei M.",
+            "rating": 5,
+            "comment": "Ecranul mare și clar face totul mai ușor de utilizat."
+        },
+        {
+            "id": 434,
+            "productId": 73,
+            "name": "Elena R.",
+            "rating": 4,
+            "comment": "Conectivitate bună și funcții avansate."
+        },
+        {
+            "id": 435,
+            "productId": 73,
+            "name": "Mihai P.",
+            "rating": 5,
+            "comment": "Bateria ține bine și performanța este excelentă."
+        },
+        {
+            "id": 436,
+            "productId": 73,
+            "name": "Ioana S.",
+            "rating": 4,
+            "comment": "Ideal pentru utilizatori activi și sportivi."
+        },
+        {
+            "id": 437,
+            "productId": 73,
+            "name": "Vlad T.",
+            "rating": 4,
+            "comment": "Design elegant și ușor de folosit."
+        },
+        {
+            "id": 438,
+            "productId": 73,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Recomand acest model pentru funcționalitatea sa completă."
+        },
+        {
+            "id": 439,
+            "productId": 74,
+            "name": "Andreea P.",
+            "rating": 5,
+            "comment": "Funcții avansate și baterie bună."
+        },
+        {
+            "id": 440,
+            "productId": 74,
+            "name": "Cristian V.",
+            "rating": 4,
+            "comment": "Design elegant și ușor de utilizat."
+        },
+        {
+            "id": 441,
+            "productId": 74,
+            "name": "Elena T.",
+            "rating": 5,
+            "comment": "Perfect pentru monitorizarea sănătății."
+        },
+        {
+            "id": 442,
+            "productId": 74,
+            "name": "Mihai L.",
+            "rating": 4,
+            "comment": "Bateria ar putea ține mai mult, dar în general sunt mulțumit."
+        },
+        {
+            "id": 443,
+            "productId": 74,
+            "name": "Ioana S.",
+            "rating": 4,
+            "comment": "Foarte comod și performant."
+        },
+        {
+            "id": 444,
+            "productId": 74,
+            "name": "Vlad M.",
+            "rating": 5,
+            "comment": "Recomand pentru cei care vor un smartwatch complet."
+        },
+        {
+            "id": 445,
+            "productId": 75,
+            "name": "Andrei F.",
+            "rating": 5,
+            "comment": "Un ceas superb, cu performanțe excelente și design premium."
+        },
+        {
+            "id": 446,
+            "productId": 75,
+            "name": "Elena C.",
+            "rating": 4,
+            "comment": "Funcții avansate și un ecran excelent, dar prețul este destul de mare."
+        },
+        {
+            "id": 447,
+            "productId": 75,
+            "name": "Mihai B.",
+            "rating": 5,
+            "comment": "Ideal pentru utilizatorii activi și cei care vor un design elegant."
+        },
+        {
+            "id": 448,
+            "productId": 75,
+            "name": "Ioana D.",
+            "rating": 4,
+            "comment": "Bateria ține destul de mult, dar aș fi dorit o încărcare mai rapidă."
+        },
+        {
+            "id": 449,
+            "productId": 75,
+            "name": "Vlad S.",
+            "rating": 5,
+            "comment": "Un upgrade semnificativ față de modelele anterioare. Foarte mulțumit."
+        },
+        {
+            "id": 450,
+            "productId": 75,
+            "name": "Raluca M.",
+            "rating": 4,
+            "comment": "Un ceas premium cu multe funcții, dar un preț destul de ridicat."
+        },
+        {
+            "id": 451,
+            "productId": 76,
+            "name": "Andrei V.",
+            "rating": 5,
+            "comment": "Un ceas fantastic pentru sportivi și persoanele active."
+        },
+        {
+            "id": 452,
+            "productId": 76,
+            "name": "Elena M.",
+            "rating": 4,
+            "comment": "Design modern și foarte ușor de utilizat. Performanță bună."
+        },
+        {
+            "id": 453,
+            "productId": 76,
+            "name": "Mihai R.",
+            "rating": 4,
+            "comment": "Bateria ține toată ziua, dar ar putea fi mai performant la încărcare rapidă."
+        },
+        {
+            "id": 454,
+            "productId": 76,
+            "name": "Ioana T.",
+            "rating": 5,
+            "comment": "Perfect pentru monitorizarea activității fizice și sănătate."
+        },
+        {
+            "id": 455,
+            "productId": 76,
+            "name": "Vlad C.",
+            "rating": 4,
+            "comment": "Un ceas bun pentru utilizarea zilnică, dar prețul este un pic mai ridicat."
+        },
+        {
+            "id": 456,
+            "productId": 76,
+            "name": "Raluca P.",
+            "rating": 5,
+            "comment": "Recomand cu încredere! Foarte ușor și confortabil."
+        },
+        {
+            "id": 457,
+            "productId": 77,
+            "name": "Andrei P.",
+            "rating": 5,
+            "comment": "Un ceas superb! Designul din oțel inoxidabil aurit arată foarte elegant."
+        },
+        {
+            "id": 458,
+            "productId": 77,
+            "name": "Elena T.",
+            "rating": 5,
+            "comment": "Este cel mai bun smartwatch pe care l-am avut vreodată. Performanță excelentă și baterie durabilă."
+        },
+        {
+            "id": 459,
+            "productId": 77,
+            "name": "Mihai L.",
+            "rating": 4,
+            "comment": "Funcționalitățile sunt impecabile, dar prețul e destul de ridicat."
+        },
+        {
+            "id": 460,
+            "productId": 77,
+            "name": "Ioana D.",
+            "rating": 5,
+            "comment": "Cel mai avansat Apple Watch! Lăudabil pentru monitorizarea sănătății."
+        },
+        {
+            "id": 461,
+            "productId": 77,
+            "name": "Vlad M.",
+            "rating": 4,
+            "comment": "Un design extrem de elegant, dar cred că prețul este cam mare față de alte modele."
+        },
+        {
+            "id": 462,
+            "productId": 77,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Recomand cu încredere! Un ceas de lux cu toate funcțiile de care ai nevoie."
+        },
+        {
+            "id": 463,
+            "productId": 78,
+            "name": "Andrei D.",
+            "rating": 5,
+            "comment": "Un smartwatch extrem de performant și durabil. Perfect pentru aventuri în aer liber."
+        },
+        {
+            "id": 464,
+            "productId": 78,
+            "name": "Elena C.",
+            "rating": 5,
+            "comment": "Designul este impecabil, iar bateria ține foarte mult. Ideal pentru cei care vor un ceas robust și versatil."
+        },
+        {
+            "id": 465,
+            "productId": 78,
+            "name": "Mihai F.",
+            "rating": 4,
+            "comment": "O alegere excelentă pentru activități extreme, dar prețul este foarte mare."
+        },
+        {
+            "id": 466,
+            "productId": 78,
+            "name": "Ioana P.",
+            "rating": 5,
+            "comment": "Perfect pentru orice tip de activitate, de la sporturi extreme la utilizarea zilnică. Recomand!"
+        },
+        {
+            "id": 467,
+            "productId": 78,
+            "name": "Vlad R.",
+            "rating": 5,
+            "comment": "Un ceas de top pentru cei care doresc un dispozitiv fiabil și cu un design excelent."
+        },
+        {
+            "id": 468,
+            "productId": 78,
+            "name": "Raluca S.",
+            "rating": 4,
+            "comment": "Chiar dacă este un produs fantastic, prețul e un pic prea ridicat pentru majoritatea utilizatorilor."
+        },
+        {
+            "id": 469,
+            "productId": 79,
+            "name": "Andrei M.",
+            "rating": 5,
+            "comment": "Un ceas absolut fabulos! Performanță ridicată și un design de lux care nu dezamăgește."
+        },
+        {
+            "id": 470,
+            "productId": 79,
+            "name": "Elena B.",
+            "rating": 5,
+            "comment": "Apple Watch Series 10 este cu adevărat un pas înainte. Funcțiile sunt impecabile și bateria ține foarte mult."
+        },
+        {
+            "id": 471,
+            "productId": 79,
+            "name": "Mihai S.",
+            "rating": 4,
+            "comment": "Funcționalitățile sunt top, dar prețul este destul de mare comparativ cu modelele anterioare."
+        },
+        {
+            "id": 472,
+            "productId": 79,
+            "name": "Ioana L.",
+            "rating": 5,
+            "comment": "Un design elegant, ușor și performant. Ideal pentru cei care vor un ceas premium pentru fiecare zi."
+        },
+        {
+            "id": 473,
+            "productId": 79,
+            "name": "Vlad F.",
+            "rating": 4,
+            "comment": "Cel mai bun Apple Watch de până acum, dar îmi doresc mai multe opțiuni de personalizare a ecranului."
+        },
+        {
+            "id": 474,
+            "productId": 79,
+            "name": "Raluca T.",
+            "rating": 5,
+            "comment": "Este cu adevărat un ceas premium. Recomand pentru cei care vor un smartwatch de top."
+        },
+        {
+            "id": 475,
+            "productId": 80,
+            "name": "Andrei G.",
+            "rating": 5,
+            "comment": "Cel mai bun Apple Watch de până acum! Slate Titanium dă un look deosebit și este foarte ușor pe mână."
+        },
+        {
+            "id": 476,
+            "productId": 80,
+            "name": "Elena N.",
+            "rating": 5,
+            "comment": "Un smartwatch extrem de performant cu un design uimitor. Funcțiile sunt excelente pentru monitorizarea sănătății."
+        },
+        {
+            "id": 477,
+            "productId": 80,
+            "name": "Mihai D.",
+            "rating": 4,
+            "comment": "Un produs excelent, dar prețul este destul de mare. Merită dacă vrei ceva premium."
+        },
+        {
+            "id": 478,
+            "productId": 80,
+            "name": "Ioana R.",
+            "rating": 5,
+            "comment": "Un ceas elegant și funcțional. Este perfect pentru utilizatorii activi și cei care apreciază un design sofisticat."
+        },
+        {
+            "id": 479,
+            "productId": 80,
+            "name": "Vlad P.",
+            "rating": 4,
+            "comment": "Un ceas de top, dar aș vrea să văd mai multe opțiuni de personalizare a cadrului."
+        },
+        {
+            "id": 480,
+            "productId": 80,
+            "name": "Raluca L.",
+            "rating": 5,
+            "comment": "Recomand cu încredere! Este rapid, ușor de folosit și cu o performanță incredibilă."
+        },
+        {
+            "id": 481,
+            "productId": 81,
+            "name": "Andrei S.",
+            "rating": 5,
+            "comment": "Un telefon excelent! Performanță bună, cameră de calitate și design elegant."
+        },
+        {
+            "id": 482,
+            "productId": 81,
+            "name": "Elena P.",
+            "rating": 4,
+            "comment": "Impresionată de camera foto și de performanța zilnică. Singura problemă este autonomia bateriei."
+        },
+        {
+            "id": 483,
+            "productId": 81,
+            "name": "Mihai T.",
+            "rating": 5,
+            "comment": "Un telefon solid, cu un raport calitate-preț excelent. Îl recomand cu încredere!"
+        },
+        {
+            "id": 484,
+            "productId": 81,
+            "name": "Ioana B.",
+            "rating": 4,
+            "comment": "Cameră foarte bună, dar aș fi dorit mai multe opțiuni de personalizare a ecranului."
+        },
+        {
+            "id": 485,
+            "productId": 81,
+            "name": "Vlad C.",
+            "rating": 5,
+            "comment": "Bateria ține destul de mult și telefonul merge foarte bine pe termen lung."
+        },
+        {
+            "id": 486,
+            "productId": 81,
+            "name": "Raluca M.",
+            "rating": 4,
+            "comment": "Designul este superb, dar prețul ar putea fi mai mic în comparație cu alte modele similare."
+        },
+        {
+            "id": 487,
+            "productId": 82,
+            "name": "Andrei R.",
+            "rating": 5,
+            "comment": "Culoarea verde este absolut superbă! Telefonul merge impecabil și camera este de top."
+        },
+        {
+            "id": 488,
+            "productId": 82,
+            "name": "Elena S.",
+            "rating": 4,
+            "comment": "Este un telefon bun, dar autonomia bateriei ar putea fi mai bună pentru utilizatorii care folosesc mult aplicațiile."
+        },
+        {
+            "id": 489,
+            "productId": 82,
+            "name": "Mihai G.",
+            "rating": 5,
+            "comment": "În continuare unul dintre cele mai bune telefoane Apple! Performanță și design excelent."
+        },
+        {
+            "id": 490,
+            "productId": 82,
+            "name": "Ioana C.",
+            "rating": 4,
+            "comment": "Designul este foarte atrăgător și ecranul excelent, însă mi-aș fi dorit o încărcare mai rapidă."
+        },
+        {
+            "id": 491,
+            "productId": 82,
+            "name": "Vlad D.",
+            "rating": 5,
+            "comment": "Un telefon perfect pentru utilizarea zilnică, cu o cameră excelentă și performanțe bune."
+        },
+        {
+            "id": 492,
+            "productId": 82,
+            "name": "Raluca T.",
+            "rating": 4,
+            "comment": "Un telefon solid, dar prețul ar putea fi mai accesibil, având în vedere că nu este un model foarte nou."
+        },
+        {
+            "id": 493,
+            "productId": 83,
+            "name": "Andrei M.",
+            "rating": 5,
+            "comment": "Culoarea este fantastică! Telefonul are o performanță grozavă și camera este superbă."
+        },
+        {
+            "id": 494,
+            "productId": 83,
+            "name": "Elena L.",
+            "rating": 4,
+            "comment": "Este un telefon excelent, dar m-aș fi așteptat la o încărcare mai rapidă."
+        },
+        {
+            "id": 495,
+            "productId": 83,
+            "name": "Mihai A.",
+            "rating": 5,
+            "comment": "Culoarea violet este unică! Telefonul merge foarte bine și sunt mulțumit de performanță."
+        },
+        {
+            "id": 496,
+            "productId": 83,
+            "name": "Ioana F.",
+            "rating": 4,
+            "comment": "Designul este foarte plăcut, iar performanța este ok. Bateria ar putea dura mai mult."
+        },
+        {
+            "id": 497,
+            "productId": 83,
+            "name": "Vlad P.",
+            "rating": 5,
+            "comment": "O alegere foarte bună! Camera și ecranul sunt deosebite, iar performanța este superioară."
+        },
+        {
+            "id": 498,
+            "productId": 83,
+            "name": "Raluca V.",
+            "rating": 4,
+            "comment": "Un telefon solid, dar prețul este un pic mai mare decât m-aș fi așteptat pentru un model de acest tip."
+        },
+        {
+            "id": 499,
+            "productId": 84,
+            "name": "Andrei T.",
+            "rating": 5,
+            "comment": "Un telefon foarte bun! Culoarea roșie este vibrantă și arată fantastic. Camera este și ea excelentă!"
+        },
+        {
+            "id": 500,
+            "productId": 84,
+            "name": "Elena R.",
+            "rating": 4,
+            "comment": "Impresionată de performanță și design, dar bateria ar putea fi puțin mai durabilă."
+        },
+        {
+            "id": 501,
+            "productId": 84,
+            "name": "Mihai D.",
+            "rating": 5,
+            "comment": "Este un telefon excelent. Performanță rapidă și camera face poze foarte clare. Îl recomand!"
+        },
+        {
+            "id": 502,
+            "productId": 84,
+            "name": "Ioana G.",
+            "rating": 4,
+            "comment": "Telefonul este foarte bun, dar nu sunt prea mulțumită de rapiditatea încărcării."
+        },
+        {
+            "id": 503,
+            "productId": 84,
+            "name": "Vlad N.",
+            "rating": 5,
+            "comment": "Culoarea roșie este uimitoare! Telefonul este rapid, ușor de utilizat și bateria ține suficient."
+        },
+        {
+            "id": 504,
+            "productId": 84,
+            "name": "Raluca I.",
+            "rating": 4,
+            "comment": "Un telefon solid, dar mi-ar fi plăcut să am opțiuni mai variate de personalizare a sistemului."
+        },
+        {
+            "id": 505,
+            "productId": 85,
+            "name": "Andrei C.",
+            "rating": 5,
+            "comment": "Un telefon impecabil! Culoarea albă este elegantă și subtilă, iar performanța este perfectă."
+        },
+        {
+            "id": 506,
+            "productId": 85,
+            "name": "Elena V.",
+            "rating": 4,
+            "comment": "Telefonul este foarte bun, dar aș fi dorit ca bateria să țină mai mult, mai ales în timpul zilelor aglomerate."
+        },
+        {
+            "id": 507,
+            "productId": 85,
+            "name": "Mihai F.",
+            "rating": 5,
+            "comment": "Este rapid, cu un design frumos. Camera face poze clare și detaliate chiar și în condiții de lumină mai slabă."
+        },
+        {
+            "id": 508,
+            "productId": 85,
+            "name": "Ioana A.",
+            "rating": 4,
+            "comment": "Performanța este excelentă, dar îmi doresc o încărcare mai rapidă. Altfel, sunt mulțumită."
+        },
+        {
+            "id": 509,
+            "productId": 85,
+            "name": "Vlad S.",
+            "rating": 5,
+            "comment": "Un telefon fantastic. Performanță rapidă, design elegant și o cameră care surprinde detalii extraordinare."
+        },
+        {
+            "id": 510,
+            "productId": 85,
+            "name": "Raluca M.",
+            "rating": 4,
+            "comment": "Foarte mulțumită de calitate, dar prețul este un pic ridicat pentru un model care nu este cel mai recent."
+        },
+        {
+            "id": 511,
+            "productId": 86,
+            "name": "Andrei P.",
+            "rating": 5,
+            "comment": "Culoarea galbenă este vibrantă și atrage atenția. Telefonul merge excelent și camera face poze de calitate!"
+        },
+        {
+            "id": 512,
+            "productId": 86,
+            "name": "Elena T.",
+            "rating": 4,
+            "comment": "Impresionată de performanța telefonului, dar durata de viață a bateriei ar putea fi îmbunătățită."
+        },
+        {
+            "id": 513,
+            "productId": 86,
+            "name": "Mihai P.",
+            "rating": 5,
+            "comment": "Culoare foarte plăcută! Telefonul este rapid, ușor de utilizat și camera este foarte bună, chiar și în condiții de lumină slabă."
+        },
+        {
+            "id": 514,
+            "productId": 86,
+            "name": "Ioana D.",
+            "rating": 4,
+            "comment": "Un telefon solid, dar îmi doresc o încărcare mai rapidă. În rest, este o alegere foarte bună."
+        },
+        {
+            "id": 515,
+            "productId": 86,
+            "name": "Vlad G.",
+            "rating": 5,
+            "comment": "Excelent pentru utilizarea zilnică! Culoarea galbenă este unică și îmi place foarte mult. Performanța este rapidă și camera este super."
+        },
+        {
+            "id": 516,
+            "productId": 86,
+            "name": "Raluca S.",
+            "rating": 4,
+            "comment": "Un telefon bun, dar prețul mi se pare puțin prea mare pentru un model din 2019."
+        },
+        {
+            "id": 517,
+            "productId": 87,
+            "name": "Andrei K.",
+            "rating": 5,
+            "comment": "Culoarea Midnight Green este absolut superbă, iar performanța telefonului este de neegalat. Recomand!"
+        },
+        {
+            "id": 518,
+            "productId": 87,
+            "name": "Elena M.",
+            "rating": 4,
+            "comment": "Design-ul este elegant și camera este excelentă, dar ar fi fost mai bine să am mai mult spațiu de stocare."
+        },
+        {
+            "id": 519,
+            "productId": 87,
+            "name": "Mihai R.",
+            "rating": 5,
+            "comment": "Un telefon extrem de rapid și performant. Camera este fantastică, iar culoarea Midnight Green este unică!"
+        },
+        {
+            "id": 520,
+            "productId": 87,
+            "name": "Ioana T.",
+            "rating": 4,
+            "comment": "Un telefon foarte bun, dar bateria ar putea fi mai durabilă, mai ales dacă folosești multe aplicații simultan."
+        },
+        {
+            "id": 521,
+            "productId": 87,
+            "name": "Vlad A.",
+            "rating": 5,
+            "comment": "Un telefon perfect! Camera face fotografii excelente și culoarea este foarte rafinată. Foarte mulțumit de achiziție."
+        },
+        {
+            "id": 522,
+            "productId": 87,
+            "name": "Raluca P.",
+            "rating": 4,
+            "comment": "Culoarea Midnight Green este deosebită, dar mi-ar fi plăcut să am mai mult spațiu de stocare, mai ales pentru poze și video."
+        },
+        {
+            "id": 523,
+            "productId": 88,
+            "name": "Andrei N.",
+            "rating": 5,
+            "comment": "Un telefon excelent! Culoarea Silver este elegantă și îmi place foarte mult camera, face poze clare în orice condiție de lumină."
+        },
+        {
+            "id": 524,
+            "productId": 88,
+            "name": "Elena D.",
+            "rating": 4,
+            "comment": "Designul este superb, dar mi-ar fi plăcut să am mai mult spațiu de stocare. În rest, telefonul este fantastic!"
+        },
+        {
+            "id": 525,
+            "productId": 88,
+            "name": "Mihai P.",
+            "rating": 5,
+            "comment": "Este rapid și foarte performant. Camera este incredibilă, iar telefonul se simte premium. Foarte mulțumit!"
+        },
+        {
+            "id": 526,
+            "productId": 88,
+            "name": "Ioana M.",
+            "rating": 4,
+            "comment": "Telefonul este foarte bun, dar m-ar fi ajutat mai mult un spațiu de stocare mai mare, având în vedere că filmez mult."
+        },
+        {
+            "id": 527,
+            "productId": 88,
+            "name": "Vlad C.",
+            "rating": 5,
+            "comment": "Un telefon deosebit! Camera și performanța sunt excelente. Culoarea Silver arată foarte bine și are un aspect premium."
+        },
+        {
+            "id": 528,
+            "productId": 88,
+            "name": "Raluca A.",
+            "rating": 4,
+            "comment": "Un telefon solid, dar prețul mi se pare cam mare pentru capacitatea de stocare de 64 GB. În rest, sunt foarte mulțumită."
+        },
+        {
+            "id": 529,
+            "productId": 89,
+            "name": "Andrei F.",
+            "rating": 5,
+            "comment": "Culoarea Space Gray este elegantă și rafinată. Performanța telefonului este de top și camera este excelentă!"
+        },
+        {
+            "id": 530,
+            "productId": 89,
+            "name": "Elena B.",
+            "rating": 4,
+            "comment": "Impresionată de design și performanță, dar aș fi preferat să am mai mult spațiu de stocare."
+        },
+        {
+            "id": 531,
+            "productId": 89,
+            "name": "Mihai L.",
+            "rating": 5,
+            "comment": "Telefonul este superb, cu o performanță rapidă și o cameră care surprinde fiecare detaliu. Foarte mulțumit de achiziție!"
+        },
+        {
+            "id": 532,
+            "productId": 89,
+            "name": "Ioana P.",
+            "rating": 4,
+            "comment": "Este un telefon de calitate, dar mi-ar fi plăcut să am opțiuni mai bune de personalizare a interfeței."
+        },
+        {
+            "id": 533,
+            "productId": 89,
+            "name": "Vlad R.",
+            "rating": 5,
+            "comment": "Un telefon excelent. Camera face poze clare și detaliate, iar performanța este rapidă și stabilă."
+        },
+        {
+            "id": 534,
+            "productId": 89,
+            "name": "Raluca T.",
+            "rating": 4,
+            "comment": "Foarte mulțumită de telefon, dar bateria nu durează la fel de mult pe cât mi-aș fi dorit."
+        },
+        {
+            "id": 535,
+            "productId": 90,
+            "name": "Andrei S.",
+            "rating": 5,
+            "comment": "Un telefon compact și rapid! Culoarea neagră arată foarte bine și este ușor de utilizat cu o singură mână."
+        },
+        {
+            "id": 536,
+            "productId": 90,
+            "name": "Elena C.",
+            "rating": 4,
+            "comment": "Telefonul este fantastic, dar aș fi preferat mai mult spațiu de stocare. Culoarea este elegantă și design-ul este premium."
+        },
+        {
+            "id": 537,
+            "productId": 90,
+            "name": "Mihai G.",
+            "rating": 5,
+            "comment": "Super mulțumit de acest iPhone mini. Mă bucur că am ales varianta mai mică. Ușor, rapid și arată grozav."
+        },
+        {
+            "id": 538,
+            "productId": 90,
+            "name": "Ioana B.",
+            "rating": 4,
+            "comment": "Este un telefon excelent, dar bateria nu ține chiar atât de mult pe cât mi-aș fi dorit, mai ales când folosesc multe aplicații."
+        },
+        {
+            "id": 539,
+            "productId": 90,
+            "name": "Vlad I.",
+            "rating": 5,
+            "comment": "Este perfect pentru cei care preferă telefoane mai mici. Performanță rapidă și camera este destul de bună pentru poze zilnice."
+        },
+        {
+            "id": 540,
+            "productId": 90,
+            "name": "Raluca B.",
+            "rating": 4,
+            "comment": "Foarte mulțumită de telefon, dar lipsa unui spațiu de stocare mai mare este un minus pentru cei care fac multe poze sau înregistrează video."
+        },
+        {
+            "id": 541,
+            "productId": 91,
+            "name": "Andrei Z.",
+            "rating": 5,
+            "comment": "Un telefon compact și puternic! Culoarea albastră este frumoasă și telefonul se simte premium. Recomand!"
+        },
+        {
+            "id": 542,
+            "productId": 91,
+            "name": "Elena P.",
+            "rating": 4,
+            "comment": "Un telefon excelent, dar mi-ar fi plăcut mai mult spațiu de stocare. În rest, design-ul și performanța sunt perfecte."
+        },
+        {
+            "id": 543,
+            "productId": 91,
+            "name": "Mihai V.",
+            "rating": 5,
+            "comment": "Culoare super! Telefonul este rapid, ușor de utilizat și foarte ușor de transportat datorită dimensiunilor mici."
+        },
+        {
+            "id": 544,
+            "productId": 91,
+            "name": "Ioana G.",
+            "rating": 4,
+            "comment": "Foarte mulțumită de performanță și design, dar bateria se consumă destul de rapid când folosesc mai multe aplicații."
+        },
+        {
+            "id": 545,
+            "productId": 91,
+            "name": "Vlad T.",
+            "rating": 5,
+            "comment": "Este exact ce aveam nevoie! Un telefon mic, dar cu performanțe excelente. Camera este de asemenea foarte bună."
+        },
+        {
+            "id": 546,
+            "productId": 91,
+            "name": "Raluca D.",
+            "rating": 4,
+            "comment": "Este un telefon foarte bun pentru cei care preferă dispozitive mai mici, dar prețul mi se pare cam ridicat pentru 64 GB."
+        },
+        {
+            "id": 547,
+            "productId": 92,
+            "name": "Andrei L.",
+            "rating": 5,
+            "comment": "Telefonul este excelent! Culoarea verde este vibrantă și se distinge cu adevărat. Performanța este rapidă și camera este bună."
+        },
+        {
+            "id": 548,
+            "productId": 92,
+            "name": "Elena S.",
+            "rating": 4,
+            "comment": "Un telefon foarte bun, dar aș fi preferat mai mult spațiu de stocare. Culoarea verde arată super și este ușor de folosit."
+        },
+        {
+            "id": 549,
+            "productId": 92,
+            "name": "Mihai J.",
+            "rating": 5,
+            "comment": "Culoare fantastică! Altfel, telefonul se mișcă rapid, camera este de calitate și design-ul este de top."
+        },
+        {
+            "id": 550,
+            "productId": 92,
+            "name": "Ioana F.",
+            "rating": 4,
+            "comment": "Un telefon bun, dar bateria s-ar putea îmbunătăți. În rest, sunt mulțumită de performanță și de design."
+        },
+        {
+            "id": 551,
+            "productId": 92,
+            "name": "Vlad D.",
+            "rating": 5,
+            "comment": "Un telefon perfect pentru cei care vor un dispozitiv mic și rapid. Culoarea verde este unică și atrage atenția."
+        },
+        {
+            "id": 552,
+            "productId": 92,
+            "name": "Raluca V.",
+            "rating": 4,
+            "comment": "Este un telefon foarte bun, dar cu 64 GB stocare am rămas rapid fără spațiu, având în vedere pozele și aplicațiile."
+        },
+        {
+            "id": 553,
+            "productId": 93,
+            "name": "Andrei M.",
+            "rating": 5,
+            "comment": "Culoarea roșie este fantastică! Telefonul este ușor, rapid și perfect pentru cei care vor un dispozitiv mic, dar performant."
+        },
+        {
+            "id": 554,
+            "productId": 93,
+            "name": "Elena T.",
+            "rating": 4,
+            "comment": "Îmi place designul și performanța, dar 64 GB sunt insuficienți dacă vrei să stochezi multe poze și aplicații."
+        },
+        {
+            "id": 555,
+            "productId": 93,
+            "name": "Mihai O.",
+            "rating": 5,
+            "comment": "Un telefon excelent, cu performanțe foarte bune pentru dimensiunea sa mică. Culoarea roșie este super, captează atenția!"
+        },
+        {
+            "id": 556,
+            "productId": 93,
+            "name": "Ioana N.",
+            "rating": 4,
+            "comment": "Telefonul este rapid și se simte premium, dar bateria se consumă destul de repede, mai ales când folosesc aplicațiile mai mari."
+        },
+        {
+            "id": 557,
+            "productId": 93,
+            "name": "Vlad S.",
+            "rating": 5,
+            "comment": "Super mulțumit de acest iPhone mini! Performanță excelentă, camera face poze clare și bateria rezistă decent pentru dimensiunea lui."
+        },
+        {
+            "id": 558,
+            "productId": 93,
+            "name": "Raluca F.",
+            "rating": 4,
+            "comment": "Telefonul este grozav, dar spațiul de stocare de 64 GB se umple rapid, mai ales dacă faci multe poze sau înregistrezi video."
+        },
+        {
+            "id": 559,
+            "productId": 94,
+            "name": "Andrei K.",
+            "rating": 5,
+            "comment": "Culoarea albă este foarte elegantă și designul este compact, perfect pentru o utilizare rapidă. Telefonul este rapid și ușor de utilizat!"
+        },
+        {
+            "id": 560,
+            "productId": 94,
+            "name": "Elena R.",
+            "rating": 4,
+            "comment": "Îmi place foarte mult telefonul, dar 64 GB nu sunt suficienți pentru toate pozele și aplicațiile pe care le folosesc. În rest, totul este ok."
+        },
+        {
+            "id": 561,
+            "productId": 94,
+            "name": "Mihai P.",
+            "rating": 5,
+            "comment": "Telefonul este perfect pentru cei care preferă telefoane mai mici. Se mișcă rapid și camera face poze excelente. Recomand cu încredere!"
+        },
+        {
+            "id": 562,
+            "productId": 94,
+            "name": "Ioana D.",
+            "rating": 4,
+            "comment": "Foarte mulțumită de performanță și design, dar bateria s-ar putea îmbunătăți puțin. Culoarea albă arată minunat!"
+        },
+        {
+            "id": 563,
+            "productId": 94,
+            "name": "Vlad C.",
+            "rating": 5,
+            "comment": "Culoare super și un telefon foarte rapid! Dimensiunile mici sunt ideale pentru utilizare cu o singură mână și camera este impresionantă."
+        },
+        {
+            "id": 564,
+            "productId": 94,
+            "name": "Raluca L.",
+            "rating": 4,
+            "comment": "Este un telefon foarte bun, dar cu 64 GB stocare am rămas repede fără spațiu. În rest, este foarte ușor și practic."
+        },
+        {
+            "id": 565,
+            "productId": 95,
+            "name": "Andrei P.",
+            "rating": 5,
+            "comment": "Un telefon foarte bun pentru utilizare de zi cu zi. Culoarea neagră arată elegant și performanța este decentă pentru un model mai vechi."
+        },
+        {
+            "id": 566,
+            "productId": 95,
+            "name": "Elena Z.",
+            "rating": 4,
+            "comment": "Este un telefon bun, dar ar putea să beneficieze de o performanță mai mare la aplicațiile mai grele. În rest, sunt mulțumită."
+        },
+        {
+            "id": 567,
+            "productId": 95,
+            "name": "Mihai U.",
+            "rating": 5,
+            "comment": "Îmi place foarte mult acest telefon! Funcționează bine, bateria ține destul de mult și camera este decentă pentru un telefon mai vechi."
+        },
+        {
+            "id": 568,
+            "productId": 95,
+            "name": "Ioana S.",
+            "rating": 4,
+            "comment": "Un telefon destul de bun, dar lipsa jack-ului pentru căști este un minus. Per total, o alegere bună pentru un buget mai mic."
+        },
+        {
+            "id": 569,
+            "productId": 95,
+            "name": "Vlad F.",
+            "rating": 5,
+            "comment": "Super telefon! Culoarea neagră arată foarte bine și, deși este un model mai vechi, este încă performant și fiabil pentru utilizare zilnică."
+        },
+        {
+            "id": 570,
+            "productId": 95,
+            "name": "Raluca M.",
+            "rating": 4,
+            "comment": "Este un telefon bun pentru nevoile de bază, dar dacă ai nevoie de mai mult spațiu de stocare sau vrei performanță de top, ar trebui să te gândești la alt model."
+        },
+        {
+            "id": 571,
+            "productId": 96,
+            "name": "Andrei I.",
+            "rating": 5,
+            "comment": "Culoarea aurie este elegantă și telefonul este în continuare foarte bun pentru utilizare zilnică. Răspunde rapid și camera este decentă."
+        },
+        {
+            "id": 572,
+            "productId": 96,
+            "name": "Elena H.",
+            "rating": 4,
+            "comment": "Un telefon bun, dar lipsa de spațiu de stocare se face simțită la un moment dat. În rest, funcționează fără probleme."
+        },
+        {
+            "id": 573,
+            "productId": 96,
+            "name": "Mihai L.",
+            "rating": 5,
+            "comment": "Super mulțumit de acest iPhone! Este rapid, arată bine și, deși nu este un model nou, încă funcționează foarte bine."
+        },
+        {
+            "id": 574,
+            "productId": 96,
+            "name": "Ioana R.",
+            "rating": 4,
+            "comment": "Un telefon bun pentru utilizare zilnică, dar bateria nu este la fel de performantă ca în modelele mai noi. Culoarea aurie este superbă!"
+        },
+        {
+            "id": 575,
+            "productId": 96,
+            "name": "Vlad P.",
+            "rating": 5,
+            "comment": "Telefon excelent pentru cei care nu au nevoie de un model de ultimă generație. Performanță bună, design elegant și fiabil."
+        },
+        {
+            "id": 576,
+            "productId": 96,
+            "name": "Raluca T.",
+            "rating": 4,
+            "comment": "Este un telefon solid, dar 32 GB sunt insuficienți pentru cineva care vrea să stocheze multe poze sau aplicații mari. Totuși, merită pentru prețul său."
+        },
+        {
+            "id": 577,
+            "productId": 97,
+            "name": "Andrei R.",
+            "rating": 5,
+            "comment": "Culoarea Jet Black este absolut superbă! Telefonul este rapid, camera decentă și performanța este bună pentru un model mai vechi."
+        },
+        {
+            "id": 578,
+            "productId": 97,
+            "name": "Elena V.",
+            "rating": 4,
+            "comment": "Un telefon excelent, dar am observat că se zgârie destul de ușor pe partea din spate din cauza finisajului lucios. În rest, funcționează foarte bine."
+        },
+        {
+            "id": 579,
+            "productId": 97,
+            "name": "Mihai T.",
+            "rating": 5,
+            "comment": "Este un telefon foarte fiabil! Culoarea Jet Black arată extraordinar și încă se descurcă bine cu aplicațiile și jocurile."
+        },
+        {
+            "id": 580,
+            "productId": 97,
+            "name": "Ioana M.",
+            "rating": 4,
+            "comment": "Îmi place mult acest telefon, dar nu mi-a plăcut că se încălzește puțin când folosesc aplicații mai mari. În rest, totul este ok."
+        },
+        {
+            "id": 581,
+            "productId": 97,
+            "name": "Vlad B.",
+            "rating": 5,
+            "comment": "Culoare superbă! Performanța este rapidă pentru un model mai vechi și bateria ține destul de mult. Încă o alegere bună!"
+        },
+        {
+            "id": 582,
+            "productId": 97,
+            "name": "Raluca S.",
+            "rating": 4,
+            "comment": "Este un telefon bun, dar la 32 GB de stocare se umple rapid și nu am prea mult loc pentru poze. Totuși, este foarte ușor și rapid."
+        },
+        {
+            "id": 583,
+            "productId": 98,
+            "name": "Alexandru P.",
+            "rating": 5,
+            "comment": "Un telefon superb! Designul din titan negru arată impecabil și performanța este excelentă. Camera este una dintre cele mai bune pe care le-am folosit."
+        },
+        {
+            "id": 584,
+            "productId": 98,
+            "name": "Maria I.",
+            "rating": 4,
+            "comment": "Este un telefon extrem de puternic, dar are un preț destul de mare. Camera este fabuloasă, dar ar putea să fie un pic mai bună la lumina scăzută."
+        },
+        {
+            "id": 585,
+            "productId": 98,
+            "name": "Daniel M.",
+            "rating": 5,
+            "comment": "Cel mai bun telefon pe care l-am avut vreodată! Performanța 5G este rapidă și foarte stabilă. Ecranul este extraordinar de clar și vibrant."
+        },
+        {
+            "id": 586,
+            "productId": 98,
+            "name": "Ioana T.",
+            "rating": 4,
+            "comment": "Îmi place mult designul și camera, dar telefonul este puțin mai greu decât mă așteptam. De asemenea, bateria s-ar putea îmbunătăți puțin."
+        },
+        {
+            "id": 587,
+            "productId": 98,
+            "name": "Andrei L.",
+            "rating": 5,
+            "comment": "Performanța telefonului este excelentă, se mișcă rapid și nu am întâmpinat probleme de lag. Culoarea titanium negru îi dă un aspect premium și elegant."
+        },
+        {
+            "id": 588,
+            "productId": 98,
+            "name": "Raluca F.",
+            "rating": 4,
+            "comment": "Un telefon de top, dar prețul este destul de ridicat. Totuși, merită pentru cei care vor cele mai bune performanțe și o cameră fantastică."
+        },
+        {
+            "id": 589,
+            "productId": 99,
+            "name": "Alexandru V.",
+            "rating": 5,
+            "comment": "Culoarea albastru titanium este absolut superbă, iar performanța acestui telefon este de neegalat. Camera este impresionantă, iar 512 GB sunt mai mult decât suficienți pentru mine."
+        },
+        {
+            "id": 590,
+            "productId": 99,
+            "name": "Maria C.",
+            "rating": 4,
+            "comment": "Telefonul este foarte bun, dar este destul de mare și greu, ceea ce îl face mai greu de utilizat cu o singură mână. Camera este însă fantastică, cu un zoom excelent."
+        },
+        {
+            "id": 591,
+            "productId": 99,
+            "name": "Daniel P.",
+            "rating": 5,
+            "comment": "Un telefon care merită fiecare bănuț! Performanța 5G este super rapidă, iar camera face poze uimitoare, chiar și în condiții de iluminare mai slabă. Recomand!"
+        },
+        {
+            "id": 592,
+            "productId": 99,
+            "name": "Ioana F.",
+            "rating": 4,
+            "comment": "Îmi place mult acest telefon, dar prețul este un pic prea mare pentru unii utilizatori. Totuși, pentru cine caută performanță de top și un design premium, este perfect."
+        },
+        {
+            "id": 593,
+            "productId": 99,
+            "name": "Andrei G.",
+            "rating": 5,
+            "comment": "Ecranul este fantastic și rapiditatea 5G este incredibilă. Designul albastru titanium îi dă un aspect deosebit și luxos. Este, cu siguranță, un telefon de top."
+        },
+        {
+            "id": 594,
+            "productId": 99,
+            "name": "Raluca D.",
+            "rating": 4,
+            "comment": "Este un telefon extraordinar, dar bateria se descarcă mai rapid decât mă așteptam. În rest, este rapid și camera face poze excelente, chiar și pe timp de noapte."
+        },
+        {
+            "id": 595,
+            "productId": 100,
+            "name": "Gabriel M.",
+            "rating": 5,
+            "comment": "Culoarea Titanium Green este absolut unică și se vede superb! Telefonul în sine este extrem de rapid și camera face fotografii uimitoare. Merită fiecare bănuț!"
+        },
+        {
+            "id": 596,
+            "productId": 100,
+            "name": "Andreea L.",
+            "rating": 4,
+            "comment": "Este un telefon fantastic, dar un pic mai greu decât m-aș fi așteptat. Camera este excelentă, iar performanța este fără cusur, dar prețul poate fi o problemă pentru mulți."
+        },
+        {
+            "id": 597,
+            "productId": 100,
+            "name": "Vlad N.",
+            "rating": 5,
+            "comment": "Am schimbat telefonul cu acest model și sunt extrem de mulțumit! Performanța 5G este extraordinară, iar bateria ține mult mai mult decât mă așteptam. Camera face poze fantastice."
+        },
+        {
+            "id": 598,
+            "productId": 100,
+            "name": "Laura T.",
+            "rating": 4,
+            "comment": "Telefonul este super rapid și arată foarte bine, dar am observat că se încălzește destul de mult la utilizare intensă. Camera este însă de top, iar ecranul este uimitor."
+        },
+        {
+            "id": 599,
+            "productId": 100,
+            "name": "Mihai R.",
+            "rating": 5,
+            "comment": "Un telefon care îmbină design-ul premium cu performanțele de top. 512 GB sunt mai mult decât suficienți pentru orice, iar camera face niște poze de calitate profesională!"
+        },
+        {
+            "id": 600,
+            "productId": 100,
+            "name": "Raluca I.",
+            "rating": 4,
+            "comment": "Este un telefon deosebit, dar poate fi prea mare pentru cineva care preferă telefoanele mai mici. În schimb, performanța și camera fac acest telefon să merite din plin."
+        },
+        {
+            "id": 601,
+            "productId": 101,
+            "name": "Ion P.",
+            "rating": 5,
+            "comment": "Telefonul este absolut fenomenal! Culoarea bronze este extrem de elegantă, iar performanța este impecabilă. S Pen-ul este un plus mare. Recomand!"
+        },
+        {
+            "id": 602,
+            "productId": 101,
+            "name": "Ana M.",
+            "rating": 4,
+            "comment": "Îmi place foarte mult acest telefon, dar se încălzește puțin în timpul utilizării intense. În rest, camera este excelentă și procesorul e foarte rapid."
+        },
+        {
+            "id": 603,
+            "productId": 101,
+            "name": "Cristian D.",
+            "rating": 5,
+            "comment": "Performanța este excelentă, iar S Pen-ul face o diferență reală față de alte telefoane. Culoarea bronze arată deosebit și sunt foarte mulțumit de achiziție."
+        },
+        {
+            "id": 604,
+            "productId": 101,
+            "name": "Mihai S.",
+            "rating": 4,
+            "comment": "Un telefon foarte bun, dar prețul este cam ridicat. Totuși, merită pentru cei care doresc un telefon premium, cu un ecran superb și o cameră de top."
+        },
+        {
+            "id": 605,
+            "productId": 101,
+            "name": "Laura A.",
+            "rating": 5,
+            "comment": "Designul și performanța acestui telefon sunt impecabile. S Pen-ul este super util pentru munca de zi cu zi, iar camera este superbă pentru poze și video."
+        },
+        {
+            "id": 606,
+            "productId": 101,
+            "name": "Gabriel Z.",
+            "rating": 4,
+            "comment": "Foarte mulțumit de telefon! Totuși, m-ar fi ajutat mai mult dacă bateria ar fi ținut puțin mai mult, având în vedere dimensiunea și performanța sa."
+        },
+        {
+            "id": 607,
+            "productId": 102,
+            "name": "Ion T.",
+            "rating": 5,
+            "comment": "Telefonul este uimitor! Culoarea gri este subtilă și elegantă, iar performanța este excepțională. Camera face fotografii de o calitate impresionantă. S Pen-ul este un adevărat plus."
+        },
+        {
+            "id": 608,
+            "productId": 102,
+            "name": "Elena R.",
+            "rating": 4,
+            "comment": "Un telefon foarte bun, dar se simte puțin greu în mână după o utilizare prelungită. Totuși, performanța este superbă și S Pen-ul este extrem de util."
+        },
+        {
+            "id": 609,
+            "productId": 102,
+            "name": "Cristina D.",
+            "rating": 5,
+            "comment": "Superb! Ecranul este fantastic, iar performanța telefonului este la cel mai înalt nivel. S Pen-ul mi se pare foarte util pentru munca zilnică. Recomand!"
+        },
+        {
+            "id": 610,
+            "productId": 102,
+            "name": "Florin M.",
+            "rating": 4,
+            "comment": "Telefonul este excelent, dar prețul este destul de ridicat. Totuși, dacă vrei un telefon premium cu performanțe de top, este o alegere excelentă."
+        },
+        {
+            "id": 611,
+            "productId": 102,
+            "name": "Andreea V.",
+            "rating": 5,
+            "comment": "Este un telefon fantastic! Mă bucur că am ales Galaxy Note 20. S Pen-ul este foarte precis și adaugă multă funcționalitate. Performanța este impecabilă."
+        },
+        {
+            "id": 612,
+            "productId": 102,
+            "name": "Mihai P.",
+            "rating": 4,
+            "comment": "Telefonul este foarte bun, dar bateria s-ar putea îmbunătăți. Totuși, performanța și designul sunt excelente, iar S Pen-ul face diferența."
+        },
+        {
+            "id": 613,
+            "productId": 103,
+            "name": "Alexandru B.",
+            "rating": 5,
+            "comment": "Telefonul este fantastic! Camera face poze incredibile, iar performanța 5G este foarte rapidă. Culoarea Phantom Black arată superb. Recomand cu încredere!"
+        },
+        {
+            "id": 614,
+            "productId": 103,
+            "name": "Maria F.",
+            "rating": 4,
+            "comment": "Este un telefon excelent, dar se încălzește puțin când îl folosești intens. Camera este însă uimitoare, iar ecranul este clar și vibrant."
+        },
+        {
+            "id": 615,
+            "productId": 103,
+            "name": "Dan G.",
+            "rating": 5,
+            "comment": "Unul dintre cele mai bune telefoane pe care le-am avut! Performanța este super rapidă și bateria ține mult mai mult decât mă așteptam. Camera face poze de o calitate excepțională."
+        },
+        {
+            "id": 616,
+            "productId": 103,
+            "name": "Ioana P.",
+            "rating": 4,
+            "comment": "Îmi place foarte mult acest telefon, dar mi-ar plăcea ca bateria să țină puțin mai mult. În rest, camera și performanța sunt impresionante."
+        },
+        {
+            "id": 617,
+            "productId": 103,
+            "name": "Florin N.",
+            "rating": 5,
+            "comment": "Design-ul Phantom Black este pur și simplu superb, iar performanța este fără egal. Camera face poze clare și detaliate, chiar și în condiții de iluminare slabă."
+        },
+        {
+            "id": 618,
+            "productId": 103,
+            "name": "Raluca S.",
+            "rating": 4,
+            "comment": "Un telefon premium care se mișcă extrem de rapid, dar este destul de mare și greu, ceea ce îl face mai puțin comod pentru utilizare cu o singură mână. În rest, este excelent."
+        },
+        {
+            "id": 619,
+            "productId": 104,
+            "name": "Ion S.",
+            "rating": 5,
+            "comment": "Este un telefon spectaculos! Culoarea Phantom White este elegantă și atrage toate privirile. Performanța este incredibilă, iar camera este pur și simplu superbă."
+        },
+        {
+            "id": 620,
+            "productId": 104,
+            "name": "Elena C.",
+            "rating": 4,
+            "comment": "Telefonul este foarte bun, dar îmi displace faptul că este mai greu decât alte modele. Totuși, performanța și camera sunt impecabile, iar ecranul este extrem de clar."
+        },
+        {
+            "id": 621,
+            "productId": 104,
+            "name": "Mihai D.",
+            "rating": 5,
+            "comment": "Galaxy S22 Ultra 5G este un telefon cu adevărat premium. Performanța 5G este uimitoare și bateria ține mult mai mult decât mă așteptam. Camera este fenomenală, chiar și pe timp de noapte."
+        },
+        {
+            "id": 622,
+            "productId": 104,
+            "name": "Iulia F.",
+            "rating": 4,
+            "comment": "Este un telefon foarte bun, dar se încarcă mai lent decât m-aș fi așteptat la acest preț. Totuși, performanța și calitatea camerei sunt de top."
+        },
+        {
+            "id": 623,
+            "productId": 104,
+            "name": "Radu P.",
+            "rating": 5,
+            "comment": "Telefonul arată extraordinar în Phantom White! Camera este superbă, iar 256 GB sunt suficienți pentru orice. Performanța generală este impecabilă și face față oricărei provocări."
+        },
+        {
+            "id": 624,
+            "productId": 104,
+            "name": "Ana B.",
+            "rating": 4,
+            "comment": "Mi-a plăcut foarte mult acest telefon, dar este puțin cam mare pentru mine. Totuși, nu pot să nu apreciez performanța sa rapidă și camera excelentă."
+        },
+        {
+            "id": 625,
+            "productId": 105,
+            "name": "Bogdan I.",
+            "rating": 5,
+            "comment": "Telefonul este extraordinar! Culoarea verde este superbă, iar performanța 5G este rapidă și fără întreruperi. Camera este fenomenală, iar bateria ține mult mai mult decât mă așteptam."
+        },
+        {
+            "id": 626,
+            "productId": 105,
+            "name": "Simona A.",
+            "rating": 4,
+            "comment": "Galaxy S23 Ultra este un telefon premium, dar este destul de mare și greoi. În rest, camera este una dintre cele mai bune pe care le-am testat vreodată, iar performanța este impecabilă."
+        },
+        {
+            "id": 627,
+            "productId": 105,
+            "name": "Vlad L.",
+            "rating": 5,
+            "comment": "Am schimbat telefonul cu acest model și sunt extrem de mulțumit! Performanța este de top, iar camera face poze clare și detaliate chiar și în condiții de iluminare slabă."
+        },
+        {
+            "id": 628,
+            "productId": 105,
+            "name": "Ioana P.",
+            "rating": 4,
+            "comment": "Este un telefon excelent, dar prețul este destul de mare. Totuși, calitatea construcției, performanța rapidă și camera incredibilă fac acest telefon să merite."
+        },
+        {
+            "id": 629,
+            "productId": 105,
+            "name": "Radu M.",
+            "rating": 5,
+            "comment": "Culoarea verde este absolut uimitoare și face acest telefon să iasă în evidență. În plus, camera și procesorul sunt de cea mai bună calitate. O alegere excelentă!"
+        },
+        {
+            "id": 630,
+            "productId": 105,
+            "name": "Alina T.",
+            "rating": 4,
+            "comment": "Telefonul este foarte bun, dar mi-ar plăcea să fie puțin mai ușor. Totuși, performanța și durata bateriei sunt impresionante. Camera este una dintre cele mai bune pe care le-am testat."
+        },
+        {
+            "id": 631,
+            "productId": 106,
+            "name": "Mihai C.",
+            "rating": 5,
+            "comment": "Telefonul este fantastic! Culoarea cream arată elegant și rafinat, iar performanța 5G este super rapidă. Camera este de neegalat, făcând poze clare chiar și pe timp de noapte."
+        },
+        {
+            "id": 632,
+            "productId": 106,
+            "name": "Anca R.",
+            "rating": 4,
+            "comment": "Un telefon premium, dar destul de greu și mare pentru mâinile mele. Totuși, camera și performanța sunt de top, iar bateria ține toată ziua."
+        },
+        {
+            "id": 633,
+            "productId": 106,
+            "name": "Adrian F.",
+            "rating": 5,
+            "comment": "Galaxy S23 Ultra este absolut fenomenal! Culoarea cream arată spectaculos, iar procesorul este extrem de rapid. Camera face poze clare și detaliate, iar bateria ține destul de mult."
+        },
+        {
+            "id": 634,
+            "productId": 106,
+            "name": "Roxana P.",
+            "rating": 4,
+            "comment": "Este un telefon grozav, dar prețul este destul de mare. Totuși, este ușor de utilizat și performanța generală este foarte bună, iar camera face poze excelente."
+        },
+        {
+            "id": 635,
+            "productId": 106,
+            "name": "Gabriel S.",
+            "rating": 5,
+            "comment": "Culoarea cream este superbă și face telefonul să arate foarte elegant. Performanța este rapidă, iar camera este excelentă pentru poze și filmări de calitate profesională."
+        },
+        {
+            "id": 636,
+            "productId": 106,
+            "name": "Andrei M.",
+            "rating": 4,
+            "comment": "Mi-ar fi plăcut ca telefonul să fie puțin mai ușor, dar în rest, performanța și calitatea camerei sunt impresionante. Un telefon excelent pentru utilizatorii avansați."
+        },
+        {
+            "id": 637,
+            "productId": 107,
+            "name": "Vlad T.",
+            "rating": 5,
+            "comment": "Design-ul Phantom Black este absolut superb! Telefonul este rapid și se mișcă fără niciun lag. Camera este una dintre cele mai bune de pe piață, iar performanța 5G este impresionantă."
+        },
+        {
+            "id": 638,
+            "productId": 107,
+            "name": "Ioana D.",
+            "rating": 4,
+            "comment": "Un telefon cu adevărat premium, dar este puțin cam greu pentru gusturile mele. Totuși, camera face poze extraordinare, iar bateria este mai bună decât mă așteptam."
+        },
+        {
+            "id": 639,
+            "productId": 107,
+            "name": "Cosmin S.",
+            "rating": 5,
+            "comment": "Galaxy S23 Ultra 5G este fenomenal! Camera este incredibilă, iar performanța este rapidă și eficientă. Culoarea Phantom Black este elegantă și atrage toate privirile."
+        },
+        {
+            "id": 640,
+            "productId": 107,
+            "name": "Elena M.",
+            "rating": 4,
+            "comment": "Telefonul este excelent, dar îmi pare că se încălzește un pic când îl folosesc pentru jocuri sau aplicații intensive. Totuși, camera și performanța sunt de top."
+        },
+        {
+            "id": 641,
+            "productId": 107,
+            "name": "Andrei P.",
+            "rating": 5,
+            "comment": "Culoarea Phantom Black arată foarte bine! Telefonul se mișcă extrem de rapid, iar camera este perfectă pentru orice tip de fotografie. Este un telefon premium care merită fiecare bănuț."
+        },
+        {
+            "id": 642,
+            "productId": 107,
+            "name": "Mihai L.",
+            "rating": 4,
+            "comment": "În general, sunt foarte mulțumit de telefon. Camera este deosebită și performanța este rapidă. Totuși, mi-ar plăcea să fie puțin mai ușor și mai compact."
+        },
+        {
+            "id": 643,
+            "productId": 108,
+            "name": "Cristian V.",
+            "rating": 5,
+            "comment": "Telefonul este absolut superb! Culoarea Aura Glow este unică și atrage toate privirile. Performanța 5G este rapidă, iar camera face poze excelente în orice condiții de iluminare."
+        },
+        {
+            "id": 644,
+            "productId": 108,
+            "name": "Adrian R.",
+            "rating": 4,
+            "comment": "Galaxy Note 10 Plus 5G este un telefon premium, dar este destul de mare și greu. Totuși, camera este de top și performanța este fantastică. Este perfect pentru utilizatorii care au nevoie de multitasking."
+        },
+        {
+            "id": 645,
+            "productId": 108,
+            "name": "Alina C.",
+            "rating": 5,
+            "comment": "Un telefon excelent! Culoarea Aura Glow este foarte frumoasă și diferită față de alte telefoane. Camera face poze clare și detaliate, iar performanța 5G este foarte rapidă."
+        },
+        {
+            "id": 646,
+            "productId": 108,
+            "name": "Mihai G.",
+            "rating": 4,
+            "comment": "Este un telefon foarte bun, dar prețul este un pic mai mare decât m-aș fi așteptat. Totuși, este foarte rapid, camera este uimitoare, iar bateria ține toată ziua."
+        },
+        {
+            "id": 647,
+            "productId": 108,
+            "name": "Raluca F.",
+            "rating": 5,
+            "comment": "Este un telefon excelent, iar culorile din spatele camerei (Aura Glow) sunt spectaculoase. Performanța este impecabilă, iar camera face fotografii profesionale."
+        },
+        {
+            "id": 648,
+            "productId": 108,
+            "name": "Victor S.",
+            "rating": 4,
+            "comment": "Am fost foarte impresionat de Galaxy Note 10 Plus 5G. Camera este deosebită, iar ecranul este extrem de clar. Totuși, ar putea fi mai ușor. Per total, sunt mulțumit de achiziție."
+        },
+        {
+            "id": 649,
+            "productId": 109,
+            "name": "Laura P.",
+            "rating": 5,
+            "comment": "Este un telefon excelent pentru prețul său! Culoarea gri arată foarte bine și este un telefon rapid. Camera face poze clare, iar performanța 5G este foarte bună. Recomand cu încredere!"
+        },
+        {
+            "id": 650,
+            "productId": 109,
+            "name": "Radu L.",
+            "rating": 4,
+            "comment": "Galaxy A73 5G este un telefon bun, dar un pic mai mare decât mi-aș fi dorit. Totuși, performanța generală este solidă, iar camera este destul de bună pentru acest interval de preț."
+        },
+        {
+            "id": 651,
+            "productId": 109,
+            "name": "Mihai C.",
+            "rating": 5,
+            "comment": "Telefonul este rapid, iar ecranul are o calitate foarte bună. Bateria ține destul de mult, iar camera oferă fotografii clare. În plus, 5G funcționează foarte bine."
+        },
+        {
+            "id": 652,
+            "productId": 109,
+            "name": "Gabriela M.",
+            "rating": 4,
+            "comment": "Îmi place acest telefon, dar am observat că se încălzește puțin atunci când folosesc aplicații mai mari. În rest, performanța este bună, iar camera face poze bune, mai ales în condiții de lumină naturală."
+        },
+        {
+            "id": 653,
+            "productId": 109,
+            "name": "Ion F.",
+            "rating": 5,
+            "comment": "Este un telefon excelent pentru cei care nu vor să cheltuiască prea mult, dar doresc performanță și calitate. Ecranul este mare și clar, iar camera este perfectă pentru social media."
+        },
+        {
+            "id": 654,
+            "productId": 109,
+            "name": "Cristina V.",
+            "rating": 4,
+            "comment": "Un telefon bun la prețul său. Se mișcă rapid, iar ecranul AMOLED este foarte clar. Bateria ține o zi întreagă, iar camera face fotografii de calitate decentă, dar nu la nivelul unui flagship."
+        },
+        {
+            "id": 655,
+            "productId": 110,
+            "name": "Andrei T.",
+            "rating": 5,
+            "comment": "Este un telefon extraordinar! Design-ul este unic, iar performanța este impecabilă. Ecranul pliabil este o inovație, iar camera este de top. Culoarea Phantom Black arată absolut fantastic!"
+        },
+        {
+            "id": 656,
+            "productId": 110,
+            "name": "Mihai P.",
+            "rating": 5,
+            "comment": "Telefonul este de o calitate premium, iar ecranul pliabil este uimitor. Nu am întâmpinat nicio problemă cu performanța și spațiul de stocare de 1 TB este mai mult decât suficient pentru toate aplicațiile și fișierele mele."
+        },
+        {
+            "id": 657,
+            "productId": 110,
+            "name": "Elena D.",
+            "rating": 4,
+            "comment": "Un telefon cu o tehnologie revoluționară, dar destul de greu și mare pentru gusturile mele. Totuși, performanța este excepțională și camera face fotografii de calitate profesională."
+        },
+        {
+            "id": 658,
+            "productId": 110,
+            "name": "Victor N.",
+            "rating": 5,
+            "comment": "Galaxy Z Fold5 este cel mai bun telefon pe care l-am avut vreodată. Ecranul pliabil este o adevărată inovație, iar performanța este extrem de rapidă. Cu 1 TB de stocare, nu am niciodată probleme de spațiu."
+        },
+        {
+            "id": 659,
+            "productId": 110,
+            "name": "Laura F.",
+            "rating": 4,
+            "comment": "Este un telefon impresionant, dar este destul de greu și mare. Totuși, tehnologia pliabilă este revoluționară, iar camera și performanța sunt excepționale. Recomand doar celor care își doresc un telefon cu adevărat inovativ."
+        },
+        {
+            "id": 660,
+            "productId": 110,
+            "name": "Radu C.",
+            "rating": 5,
+            "comment": "Am fost sceptic la început în legătură cu telefoanele pliabile, dar Galaxy Z Fold5 m-a convins complet. Ecranul pliabil este perfect pentru multitasking, iar performanța și calitatea camerei sunt de neegalat."
+        }
     ]
 }
