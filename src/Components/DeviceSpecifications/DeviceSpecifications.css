@@ -1,0 +1,124 @@
+.device-specifications {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+.device-specifications h2 {
+  font-size: 30px;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+.device-specifications ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+.device-specifications li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 50px;
+  border-bottom: 1px solid #ccc;
+  padding: 5px 20px;
+}
+.device-specifications li:nth-child(odd) {
+  background-color: #ffffff;
+}
+.device-specifications li:nth-child(even) {
+  background-color: #cbf4ff1f;
+}
+.device-specifications li p:first-child {
+  font-weight: 600;
+  text-align: start;
+}
+.device-specifications li p:nth-child(2) {
+  width: 60%;
+  text-align: end;
+}
+.device-specifications button {
+  font-size: 30px;
+  font-weight: 600;
+  color: #7d7d7d;
+  border: none;
+  margin-top: 30px;
+  background: transparent;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 1150px) {
+  .device-specifications {
+    padding: 0px;
+  }
+  .device-specifications h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  .device-specifications li {
+    max-width: 800px;
+    min-height: 40px;
+  }
+  .device-specifications button {
+    font-size: 25px;
+    margin-top: 25px;
+  }
+}
+@media (max-width: 800px) {
+  .device-specifications h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .device-specifications li {
+    max-width: 650px;
+    padding: 5px 15px;
+  }
+  .device-specifications ul > li > p {
+    font-size: 13px;
+  }
+  .device-specifications button {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 510px) {
+  .device-specifications h2 {
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+  }
+  .device-specifications li {
+    padding: 5px 10px;
+  }
+  .device-specifications ul > li > p {
+    font-size: 10px;
+  }
+  .device-specifications button {
+    font-size: 16px;
+    margin-top: 15px;
+  }
+}
+@media (max-width: 400px) {
+  .device-specifications h2 {
+    font-size: 14px;
+  }
+  .device-specifications li {
+    padding: 0px 8px;
+  }
+  .device-specifications ul > li > p {
+    font-size: 8px;
+  }
+  .device-specifications button {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+}

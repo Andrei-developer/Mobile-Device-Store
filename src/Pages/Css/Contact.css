@@ -1,0 +1,72 @@
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  margin: 20px;
+}
+.contact iframe {
+  width: 100%;
+  max-width: 700px;
+  height: 400px;
+}
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 22px;
+  background: linear-gradient(to right, #00000000, #ffffffcb, #00000000);
+  padding: 60px 0px;
+  width: 350px;
+}
+.contact-container p {
+  border-bottom: 2px solid #0000008a;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 1150px) {
+  .contact {
+    gap: 40px;
+  }
+  .contact iframe {
+    max-width: 400px;
+    height: 300px;
+  }
+  .contact-container {
+    gap: 20px;
+    font-size: 20px;
+    width: 350px;
+  }
+  .contact-container p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 700px) {
+  .contact {
+    gap: 20px;
+  }
+  .contact iframe {
+    max-width: 300px;
+    height: 200px;
+  }
+  .contact-container {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    width: 300px;
+    height: 200px;
+  }
+  .contact-container p {
+    font-size: 10px;
+  }
+}
+@media (max-width: 510px) {
+  .contact {
+    margin: 10px;
+    flex-direction: column;
+    gap: 10px;
+  }
+}

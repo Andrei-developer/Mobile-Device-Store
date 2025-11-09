@@ -1,0 +1,247 @@
+.cart-items {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  flex-direction: column;
+  min-height: 70vh;
+  margin: 30px 20px 0;
+}
+.cart-items hr {
+  width: 100%;
+  max-width: 1200px;
+}
+.cart-items-header,
+.cart-item {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  width: 100%;
+  max-width: 1200px;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+}
+.cart-item {
+  margin-bottom: 20px;
+  background: #fff;
+  padding: 10px 0;
+  border-radius: 5px;
+}
+.cart-item img {
+  max-height: 150px;
+}
+.cart-item button {
+  border: none;
+  background: #ffffff;
+}
+.cart-item i {
+  font-size: 20px;
+}
+.cart-item i:hover {
+  color: #8d8d8d;
+}
+.cart-item i:active {
+  color: #000000;
+}
+.total-amount p {
+  font-size: 25px;
+  color: #000000;
+}
+.promo-buy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.promo-code {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  max-width: 500px;
+  gap: 15px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  background: #ffffff;
+}
+.promo-code input {
+  font-size: 21px;
+  padding: 5px 10px;
+  outline: none;
+  border-radius: 5px;
+  width: 100%;
+  background: #ffffff;
+}
+.promo-code button {
+  font-size: 22px;
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  width: 200px;
+  background: #000000;
+  color: #fff;
+}
+.promo-code button:hover {
+  background: #444444;
+}
+.buy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  border: 2px solid #000;
+  width: 250px;
+  height: 50px;
+  font-size: 22px;
+  color: #000000;
+  border-radius: 100px;
+}
+.buy:hover {
+  background: #ffffff;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 1000px) {
+  .cart-item img {
+    max-height: 120px;
+  }
+  .cart-item i {
+    font-size: 18px;
+  }
+  .cart-item p {
+    font-size: 14px;
+  }
+  .total-amount p {
+    font-size: 20px;
+  }
+  .promo-buy {
+    gap: 15px;
+  }
+  .promo-code {
+    margin: 15px;
+    padding: 20px;
+  }
+  .promo-code input {
+    font-size: 20px;
+  }
+  .promo-code button {
+    font-size: 20px;
+  }
+  .buy {
+    font-size: 20px;
+  }
+}
+@media (max-width: 750px) {
+  .cart-items-header p {
+    font-size: 15px;
+  }
+  .cart-item img {
+    max-height: 100px;
+  }
+  .cart-item i {
+    font-size: 16px;
+  }
+  .cart-item p {
+    font-size: 10px;
+  }
+  .total-amount p {
+    font-size: 18px;
+  }
+  .promo-buy {
+    gap: 5px;
+  }
+  .promo-code {
+    margin: 10px;
+    padding: 15px;
+    max-width: 400px;
+  }
+  .promo-code input {
+    font-size: 18px;
+  }
+  .promo-code button {
+    font-size: 20px;
+  }
+  .buy {
+    height: 40px;
+    width: 200px;
+    font-size: 16px;
+  }
+}
+@media (max-width: 550px) {
+  .cart-items {
+    margin: 30px 5px 0;
+  }
+  .cart-items-header p {
+    font-size: 12px;
+  }
+  .cart-item img {
+    max-height: 80px;
+  }
+  .cart-item i {
+    font-size: 14px;
+  }
+  .cart-item p {
+    font-size: 8px;
+  }
+  .total-amount p {
+    font-size: 16px;
+  }
+  .promo-buy {
+    gap: 0;
+  }
+  .promo-code {
+    margin: 8px;
+    padding: 12px;
+    max-width: 350px;
+  }
+  .promo-code input {
+    font-size: 16px;
+  }
+  .promo-code button {
+    font-size: 16px;
+    width: 150px;
+  }
+  .buy {
+    margin-top: 10px;
+  }
+}
+@media (max-width: 430px) {
+  .cart-items-header p {
+    font-size: 10px;
+  }
+  .cart-item img {
+    max-height: 70px;
+  }
+  .cart-item i {
+    font-size: 12px;
+  }
+  .cart-item p {
+    font-size: 6px;
+  }
+  .total-amount p {
+    font-size: 14px;
+  }
+  .promo-code {
+    margin: 5px;
+    padding: 10px;
+    max-width: 300px;
+  }
+  .promo-code input {
+    font-size: 14px;
+  }
+  .promo-code button {
+    font-size: 14px;
+    width: 120px;
+  }
+  .buy {
+    margin-top: 8px;
+    width: 140px;
+    height: 35px;
+    font-size: 12px;
+  }
+}

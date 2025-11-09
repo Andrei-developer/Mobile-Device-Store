@@ -1,0 +1,78 @@
+.atp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  min-height: 60vh;
+}
+.atp-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  max-width: 1000px;
+}
+.atp-container h2 {
+  font-size: 25px;
+  font-weight: 600;
+}
+.atp-container h3 {
+  font-size: 20px;
+  font-weight: 600;
+}
+.atp-container p {
+  font-size: 17px;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 700px) {
+  .atp {
+    text-align: center;
+  }
+  .atp-container {
+    gap: 20px;
+  }
+  .atp-container h2 {
+    font-size: 22px;
+  }
+  .atp-container h3 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .atp-container p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 550px) {
+  .atp {
+    margin: 10px;
+  }
+  .atp-container {
+    gap: 10px;
+  }
+  .atp-container h2 {
+    font-size: 20px;
+  }
+  .atp-container h3 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .atp-container p {
+    font-size: 12px;
+  }
+}
+@media (max-width: 400px) {
+  .atp-container h2 {
+    font-size: 18px;
+  }
+  .atp-container h3 {
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .atp-container p {
+    font-size: 10px;
+  }
+}

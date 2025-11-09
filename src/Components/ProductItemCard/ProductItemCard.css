@@ -1,0 +1,37 @@
+.product-item-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 105px;
+  height: 170px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+.product-item-card:hover {
+  transform: scale(1.05);
+}
+.product-item-card img {
+  max-width: 100%;
+  padding: 2px;
+}
+.product-item-card-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 400px) {
+  .product-item-card {
+    padding: 0 5px;
+    width: 80px;
+    height: 120px;
+  }
+}

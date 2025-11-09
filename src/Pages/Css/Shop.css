@@ -1,0 +1,36 @@
+.shop {
+  display: flex;
+  max-width: 1440px;
+  align-items: top;
+  justify-content: center;
+  padding: 0 20px;
+  min-height: 80vh;
+}
+.shop-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 1200px) {
+  .shop-container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media (max-width: 850px) {
+  .shop-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 520px) {
+  .shop-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .shop {
+    padding: 0 5px;
+  }
+}

@@ -1,0 +1,58 @@
+.recenzii {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.recenzii h2 {
+  font-size: 30px;
+  border-bottom: #ccc 2px solid;
+  border-width: 100%;
+}
+.recenzie {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  max-width: 800px;
+  padding: 15px;
+  background: #ffffff;
+  margin: 15px 0;
+  height: 100%;
+  min-height: 100px;
+  border-radius: 5px;
+}
+.rating {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.fa-star {
+  color: #ffcc00;
+}
+.rating h3 {
+  margin-right: 10px;
+}
+.recenzie p {
+  border: 1px solid #d0d0d0;
+  padding: 20px 10px;
+  border-radius: 10px;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 500px) {
+  .recenzii {
+    padding: 10px;
+  }
+  .recenzii h2 {
+    font-size: 20px;
+  }
+  .recenzie p {
+    font-size: 10px;
+  }
+}

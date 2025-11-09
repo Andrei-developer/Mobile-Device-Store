@@ -1,0 +1,92 @@
+.intrebari {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 60vh;
+  gap: 30px;
+  margin: 0 20px;
+}
+.intrebari form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.intrebari input {
+  width: 600px;
+  height: 40px;
+  padding: 0 0 0 10px;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background: transparent;
+  border-bottom: 1px solid #ccc;
+}
+.intrebari input:focus {
+  border-bottom: 2px solid #000;
+}
+.intrebari textarea {
+  width: 600px;
+  min-height: 100px;
+  max-height: 400px;
+  max-width: 600px;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+}
+.intrebari button {
+  width: 200px;
+  height: 40px;
+  font-size: 22px;
+  border-radius: 20px;
+  border: 1px solid;
+}
+.intrebari button:hover {
+  background: #dcdcdc;
+}
+.intrebari button:active {
+  background: #d1d1d1;
+}
+
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+
+@media (max-width: 700px) {
+  .intrebari h1 {
+    font-size: 25px;
+  }
+  .intrebari input {
+    max-width: 450px;
+    padding: 0 0 0 10px;
+    font-size: 15px;
+  }
+  .intrebari textarea {
+    max-width: 450px;
+    min-height: 100px;
+    max-height: 400px;
+    font-size: 15px;
+  }
+}
+@media (max-width: 500px) {
+  .intrebari h1 {
+    font-size: 22px;
+  }
+  .intrebari input {
+    max-width: 300px;
+    padding: 0 0 0 10px;
+    font-size: 15px;
+  }
+  .intrebari textarea {
+    max-width: 300px;
+    font-size: 15px;
+  }
+  .intrebari button {
+    width: 150px;
+    height: 30px;
+    font-size: 18px;
+  }
+}
