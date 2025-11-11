@@ -22,7 +22,7 @@ export default function Footer(){
             <li><a href="#"><i className="fa-brands fa-instagram"></i></a></li>
             <li><a href="#"><i className="fa-brands fa-facebook"></i></a></li>
         </ul>
-        <Link to="/" className="logo" onClick={() => (setOpen(false), setSearch(""), setProductOpen(true), window.scrollTo(0,0))}><img src="../../../public/assets/img/logo.png" alt="" /></Link>
+        <Link to="/" className="logo" onClick={() => (setOpen(false), setSearch(""), setProductOpen(true), window.scrollTo(0,0))}><img src="https://images.andrew-code.com/logo.png" alt="" /></Link>
         <p>&#169; EVOX {year}</p>
         </div>
     )
