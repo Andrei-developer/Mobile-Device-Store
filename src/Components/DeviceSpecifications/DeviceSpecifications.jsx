@@ -6,7 +6,7 @@ import { useParams } from "react-router-dom";
 export default function DeviceSpecifications() {
     const { id } = useParams();
     const { products, showAllSpecs, setShowAllSpecs } = useContext(ShopContext);
-    const product = products.find((p) => p.id === id);
+    const product = products.find((p) => Number(p.id) === Number(id));
 
     // Dacă produsul nu există sau nu are câmpul esențial modelName, returnăm null
     if (!product || !product.modelName) {

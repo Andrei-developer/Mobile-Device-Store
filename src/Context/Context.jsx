@@ -46,7 +46,7 @@ const getTotalAmount = () => {
     let totalAmount = 0;
     for (const item in cartItems) {
         if (cartItems[item] > 0) {
-            const product = products.find((p) => p.id === item);
+            const product = products.find((p) => Number(p.id) === Number(item));
             if (product) {
                 totalAmount += product.newPrice * cartItems[item];
             }
@@ -59,20 +59,21 @@ useEffect(() => {
   setCartItems(getDefaultCart());
 }, [products]);
 
+
     useEffect(() => {
         const fetchData = async () => {
 
             try {
                 const [resCategories, resProducts, resReviews]= await Promise.all([
-                    fetch('http://localhost:3000/categories',{
+                    fetch(`https://mobile-api-bo3f.onrender.com/categories`,{
                         method: 'GET',
                         headers: {'Content-Type': 'application/json'},
                     }),
-                    fetch('http://localhost:3000/products',{
+                    fetch(`https://mobile-api-bo3f.onrender.com/products`,{
                         method: 'GET',
                         headers: {'Content-Type': 'application/json'},
                     }),
-                    fetch('http://localhost:3000/reviews',{
+                    fetch(`https://mobile-api-bo3f.onrender.com/reviews`,{
                         method: 'GET',
                         headers: {'Content-Type': 'application/json'},
                     }),

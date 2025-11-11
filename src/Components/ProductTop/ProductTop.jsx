@@ -8,14 +8,16 @@ export default function ProductTop(){
     const [adev, setAdev] = useState(false);
     const {id} = useParams();
     const {products, addToCart} = useContext(ShopContext);
-    const product = products.find((p) => p.id === id);
-    console.log(product);
+    const product = products.find((p) => Number(p.id) === Number(id));
     const [mainImage, setMainImage] = useState(product.image1);
     const filterByModelName = products.filter((p) => product.modelName === p.modelName);
 
     useEffect(() => {
+        if(!product){
+            setMainImage(product.image1);
+        }
         setMainImage(product.image1);
-    }, [id,product.image1]);
+    }, [id, product]);
 
     return(
         <div className="product-wrapper">
