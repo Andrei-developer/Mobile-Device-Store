@@ -9,7 +9,7 @@ export default function NewProduct(){
         <div className="new-product-section" style={search !== "" ? {display: "none"} : {display: "block"}}>
             <div className="new-product">
                 <div className="new-product-container">
-                    <img src="../../../public/assets/img/iphone_17_pro.png" alt="" />
+                    <img src="https://images.andrew-code.com/iphone_17_pro.png" alt="" />
                     <div className="new-product-text">
                         <h2>Noul</h2>
                         <h1>iPhone 17 Pro</h1>

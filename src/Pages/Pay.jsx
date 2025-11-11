@@ -33,16 +33,16 @@ export default function Pay(){
                     </div>
                     <div className="pay-input-container">
                         <div className="pay-cards">
-                            <img loading="lazy" src="../../public/assets/cards/Alpha-Bank.jpg" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/bcr.jpg" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/bnr.jpg" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/bt.png" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/CEC-Bank.jpg" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/ing.webp" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/paypal.jpg" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/Raiffeisen-Bank.jpg" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/revolut.png" alt="" />
-                            <img loading="lazy" src="../../public/assets/cards/visa.webp" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/Alpha-Bank.jpg" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/bcr.jpg" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/bnr.jpg" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/bt.png" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/CEC-Bank.jpg" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/ing.webp" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/paypal.jpg" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/Raiffeisen-Bank.jpg" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/revolut.png" alt="" />
+                            <img loading="lazy" src="https://images.andrew-code.com/cards/visa.webp" alt="" />
                         </div>
                         <input ref={mmyy} className="mmyy-input" placeholder="MM/YY" type="text" />
                     </div>

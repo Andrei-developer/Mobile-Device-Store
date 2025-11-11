@@ -12,7 +12,7 @@ export default function Header(){
         <div className="header">
                 <div className="logo-input-filters">
                     <Link to="/" onClick={() => (setOpen(false), setSearch(""), setProductOpen(true))}>
-                    <img loading="eager" src="../../../public/assets/img/logo.png" alt=""/>
+                    <img loading="eager" src="https://images.andrew-code.com/logo.png" alt=""/>
                     </Link>
                     <SearchInput/>
                     <div className="filters-cart">
