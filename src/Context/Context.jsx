@@ -110,8 +110,9 @@ useEffect(() => {
     const [open, setOpen] = useState(false);
     const [productOpen, setProductOpen] = useState(true);
     const [showAllSpecs, setShowAllSpecs] = useState(false);
+    const [newProductOpen, setNewProductOpen] = useState(true);
 
-    const ContextValue = { getDefaultCart, cartItems, getTotalAmount, getTotalCartItems, removeToCart, addToCart, categories, products, reviews, setSearch, search, searchItem, findProduct, setLink, links, open, setOpen, productOpen, setProductOpen, showAllSpecs, setShowAllSpecs };
+    const ContextValue = { getDefaultCart, setNewProductOpen, newProductOpen, cartItems, getTotalAmount, getTotalCartItems, removeToCart, addToCart, categories, products, reviews, setSearch, search, searchItem, findProduct, setLink, links, open, setOpen, productOpen, setProductOpen, showAllSpecs, setShowAllSpecs };
     
     localStorage.setItem("variabile", JSON.stringify(ContextValue));
     

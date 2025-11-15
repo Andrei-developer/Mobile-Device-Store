@@ -69,6 +69,11 @@ button i {
   border: none;
   background: #00000000;
 }
+.header-filters-container {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
 .header-4-filters {
   max-width: 1440px;
   display: flex;

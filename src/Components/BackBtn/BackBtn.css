@@ -1,0 +1,51 @@
+.back-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.back-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 30px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 100px;
+}
+.back-btn i {
+  font-size: 20px;
+}
+/* ////////////////////////////////////////////////////////////////////////////
+/////////////////////////////// Responsive Zone ///////////////////////////////
+//////////////////////////////////////////////////////////////////////////// */
+@media (max-width: 1000px) {
+  .back-btn {
+    width: 80px;
+    height: 25px;
+    font-size: 18px;
+  }
+  .back-btn i {
+    font-size: 18px;
+  }
+}
+@media (max-width: 750px) {
+  .back-btn {
+    font-size: 15px;
+  }
+  .back-btn i {
+    font-size: 15px;
+  }
+}
+@media (max-width: 500px) {
+  .back-btn {
+    width: 60px;
+    height: 20px;
+    font-size: 11px;
+  }
+  .back-btn i {
+    font-size: 11px;
+  }
+}

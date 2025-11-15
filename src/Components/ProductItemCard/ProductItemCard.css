@@ -2,8 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 105px;
-  height: 170px;
+  width: 180px;
+  height: 200px;
   background: #ffffff;
   border-radius: 5px;
 }
@@ -27,7 +27,34 @@
 /* ////////////////////////////////////////////////////////////////////////////
 /////////////////////////////// Responsive Zone ///////////////////////////////
 //////////////////////////////////////////////////////////////////////////// */
-
+@media (max-width: 1200px) {
+  .product-item-card {
+    padding: 0 5px;
+    width: 160px;
+    height: 180px;
+  }
+}
+@media (max-width: 750px) {
+  .product-item-card {
+    font-size: 14px;
+    width: 140px;
+    height: 160px;
+  }
+}
+@media (max-width: 650px) {
+  .product-item-card {
+    font-size: 12px;
+    width: 120px;
+    height: 140px;
+  }
+}
+@media (max-width: 550px) {
+  .product-item-card {
+    font-size: 10px;
+    width: 100px;
+    height: 120px;
+  }
+}
 @media (max-width: 400px) {
   .product-item-card {
     padding: 0 5px;

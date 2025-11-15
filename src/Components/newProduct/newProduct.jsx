@@ -4,9 +4,9 @@ import { ShopContext } from "../../Context/ShopContext";
 import { Link } from "react-router-dom";
 
 export default function NewProduct(){
-    const { search, setProductOpen, setSearch } = useContext(ShopContext);
+    const {  search, newProductOpen, setProductOpen, setSearch } = useContext(ShopContext);
     return(
-        <div className="new-product-section" style={search !== "" ? {display: "none"} : {display: "block"}}>
+        <div className="new-product-section" style={(search !== "" || newProductOpen === false) ? {display: "none"} : {display: "block"}}>
             <div className="new-product">
                 <div className="new-product-container">
                     <img src="https://images.andrew-code.com/iphone_17_pro.png" alt="" />

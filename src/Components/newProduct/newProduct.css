@@ -1,5 +1,6 @@
 .new-product-section {
   width: 100vw;
+  max-width: 1400px;
   padding: 10px 20px;
 }
 .new-product {
@@ -9,6 +10,7 @@
   height: 100vh;
   max-height: 320px;
   width: 100%;
+  max-width: 1400px;
   border-radius: 5px;
   background: linear-gradient(to right, #ff720e73, #fff, #ff720e73, #ff720e);
 }

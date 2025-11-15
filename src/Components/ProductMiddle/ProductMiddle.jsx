@@ -15,9 +15,9 @@ export default function ProductMiddle(){
                 <h2>Descriere {product.name}</h2>
                 <p>{product.description}</p>
             </div>
+            <DeviceSpecifications />
             <h2>Produse similare</h2>
             <FourProducts />
-            <DeviceSpecifications />
         </div>
     )
 }

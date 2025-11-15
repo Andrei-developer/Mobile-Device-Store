@@ -29,18 +29,39 @@ export default function ProductTop(){
                     </div>
                 </div>
             </div>
-                <div className="product-top-images">
-                    <div className="product-top-main-image">
-                        <img loading="eager" src={mainImage} alt="" />
+                <div className="product-top-content">
+                    <div className="product-top-images">
+                        <div className="product-top-main-image">
+                            <img loading="eager" src={mainImage} alt="" />
+                        </div>
+                        <div className="product-top-sub-images">
+                            <ul>
+                                <li className={mainImage === product.image1 ? "active" : ""}><img loading="eager"  onMouseEnter={() => setMainImage(product.image1)} src={product.image1} alt="" /></li>
+                                <li className={mainImage === product.image2 ? "active" : ""}><img loading="eager" className="" onMouseEnter={() => setMainImage(product.image2)} src={product.image2} alt="" /></li>
+                                <li className={mainImage === product.image3 ? "active" : ""}><img loading="eager" className="" onMouseEnter={() => setMainImage(product.image3)} src={product.image3} alt="" /></li>
+                                <li className={mainImage === product.image4 ? "active" : ""}><img loading="eager" className="" onMouseEnter={() => setMainImage(product.image4)} src={product.image4} alt="" /></li>
+                                <li className={mainImage === product.image5 ? "active" : ""}><img loading="eager" className="" onMouseEnter={() => setMainImage(product.image5)} src={product.image5} alt="" /></li>
+                            </ul>
+                        </div>
                     </div>
-                    <div className="product-top-sub-images">
-                        <ul>
-                            <li className={mainImage === product.image1 ? "active" : ""}><img loading="eager"  onMouseEnter={() => setMainImage(product.image1)} src={product.image1} alt="" /></li>
-                            <li className={mainImage === product.image2 ? "active" : ""}><img loading="eager" className="" onMouseEnter={() => setMainImage(product.image2)} src={product.image2} alt="" /></li>
-                            <li className={mainImage === product.image3 ? "active" : ""}><img loading="eager" className="" onMouseEnter={() => setMainImage(product.image3)} src={product.image3} alt="" /></li>
-                            <li className={mainImage === product.image4 ? "active" : ""}><img loading="eager" className="" onMouseEnter={() => setMainImage(product.image4)} src={product.image4} alt="" /></li>
-                            <li className={mainImage === product.image5 ? "active" : ""}><img loading="eager" className="" onMouseEnter={() => setMainImage(product.image5)} src={product.image5} alt="" /></li>
-                        </ul>
+                    <div className="product-top-mini-description-wrapper">
+                        <div className="product-top-mini-description">
+                            <div className="product-top-name">
+                                <h2>{product.name}</h2>
+                                <p>{product.smallDescription}</p>
+                            </div>
+                            <div className="product-top-price" >
+                                <p>{product.newPrice} Lei</p>
+                                <p>{product.oldPrice} Lei</p>
+                            </div>
+                            <div className="product-top-garantie">
+                                <p>Garantie: 12 luni</p>
+                                <p>Profita acum</p>
+                            </div>
+                            <p className="truck-fast"><i className="fa-solid fa-truck-fast"></i> Livrare in 2-3 zile</p>
+                            <button className="add-to-cart" onClick={() => {addToCart(product.id); setAdev(!adev); setTimeout(() => {setAdev(adev)}, 100)}}>Adauga in cos</button>
+                            <div style={{display: adev === false ? "none" : ""}} className="animation"><i className="fa-solid fa-plus"></i></div>
+                        </div>
                     </div>
                 </div>
                 <div className="product-top-same-name">
@@ -50,25 +71,6 @@ export default function ProductTop(){
                         ))}
                     </ul>
                 </div>
-            <div className="product-top-mini-description-wrapper">
-                <div className="product-top-mini-description">
-                    <div className="product-top-name">
-                        <h2>{product.name}</h2>
-                        <p>{product.smallDescription}</p>
-                    </div>
-                    <div className="product-top-price" >
-                        <p>{product.newPrice} Lei</p>
-                        <p>{product.oldPrice} Lei</p>
-                    </div>
-                    <div className="product-top-garantie">
-                        <p>Garantie: 12 luni</p>
-                        <p>Profita acum</p>
-                    </div>
-                    <p className="truck-fast"><i className="fa-solid fa-truck-fast"></i> Livrare in 2-3 zile</p>
-                    <button className="add-to-cart" onClick={() => {addToCart(product.id); setAdev(!adev); setTimeout(() => {setAdev(adev)}, 100)}}>Adauga in cos</button>
-                    <div style={{display: adev === false ? "none" : ""}} className="animation"><i className="fa-solid fa-plus"></i></div>
-                </div>
-            </div>
         </div>
     )
 }
